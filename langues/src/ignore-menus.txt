@@ -1,0 +1,36 @@
+# G3 : noms de langues (restent dans leur langue), ids, logs, chemins. Les variantes avec espaces autour sont traduites sans les espaces.
+Français
+English
+Español
+Deutsch
+Italiano
+Português
+Joueur
+Nuit Blanche
+Lobby
+Default
+Master
+Micro
+View
+=Échap
+[b][color=#%s]%s[/color][/b]  %s\n
+Voix : audio/driver/enable_input est faux, le micro est inactif.
+[capteur] %s, %.0f images/s, corps : %d nombres
+[capteur] sans caméra : 
+ (état 
+[maj] dépôt injoignable
+[maj] %s -> %s : %d fichiers
+User-Agent: NuitBlanche-maj
+[maj] %s : résultat %d, code %d
+C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe
+C:/Program Files/Microsoft/Edge/Application/msedge.exe
+C:/Program Files/Google/Chrome/Application/chrome.exe
+C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
+\nCrée le tien, ou regarde les autres langues.
+  Rejoindre  
+Ton nom  
+  Au hasard  
+  Prendre ma tête (photo de face)  
+  Effacer ma photo  
+  Succès  
+  Équipe

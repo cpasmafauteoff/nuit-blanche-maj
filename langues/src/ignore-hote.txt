@@ -1,0 +1,43 @@
+# G2 : hote. Prenoms des bots (ne se traduisent pas), journaux de debug, protocole, fragments deja couverts par un gabarit complet.
+Basile
+Rosalie
+Gaspard
+Mahaut
+Anselme
+Isaure
+Clotaire
+Berthe
+Gauvain
+Ysabeau
+Thibaud
+Aldegonde
+Enguerrand
+Mélisende
+Bertrand
+Ermengarde
+[synchro] départ sans réponse de 
+[exclusion] identité de l'exclu : '%s'
+[exclusion] connexion refusée à 
+[pub] %d octets
+[pub envoyé] phase=%s à %s
+départ vers %s : %s
+[quete] %.1f s · 
+choix du rôle « %s » dans %s
+rôle %s pris par %d (%s) après %.1f s
+début du jeu %s après %.1f s de trajet
+fin du jeu %s après %.1f s (durée prévue %.0f s)
+réussie
+échouée
+Steam
+[steam] pas de Steam : 
+[steam] connecté : 
+\nPar Internet : %s  (port ouvert automatiquement)
+\nPar Internet : ta box n'a pas ouvert le port toute seule.\nOuvre le port %d (UDP) vers ce PC, ou utilisez Tailscale (gratuit).
+HTTP/1.1 200 OK\r\nContent-Type: %s\r\nContent-Length: %d\r\nCache-Control: no-cache\r\nConnection: close\r\n\r\n
+  Copier le code  
+  Code copié ✓  
+soupçonne
+voulait élire
+ (connexion…)
+àâäáãåçéèêëíìîïñóòôöõúùûüýÿœæ
+NICK justinfan%d

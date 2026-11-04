@@ -1,0 +1,305 @@
+# G2 : hote (meneur, partie, exclusion, streamer, reseau…). Les textes que l'hote envoie restent en francais sur le reseau ; les clients les traduisent par gabarits.
+# --- réglages de durée (salon) ---
+Vote de la quête du jour	Today's quest vote
+Tour des loups	Wolves' turn
+Tour de chaque rôle (nuit)	Each role's turn (night)
+# --- noms construits par le meneur ---
+Bandeau %s	Headband: %s
+un joueur	a player
+# --- voix du meneur (la nuit) ---
+La nuit tombe sur la Ronde. Tout le monde va se coucher… fermez les yeux.	Night falls over the Ronde. Everyone goes to bed… close your eyes.
+L'Entremetteuse se réveille. Elle ouvre son carnet et lie deux âmes.	The Matchmaker wakes. The notebook opens, and two souls are bound.
+L'Enfant sauvage se réveille et choisit son modèle.	The Wild Child wakes and chooses a role model.
+Le Veilleur de nuit se réveille. Quelle porte gardera-t-il ?	The Night Watchman wakes. Which door will they guard?
+La Liseuse d'âmes se réveille. Elle ouvre son carnet…	The Soul Reader wakes. The notebook opens…
+Les loups se réveillent. Sortez sans bruit… la pierre vous attend.	The wolves wake. Slip out without a sound… the stone awaits you.
+Le Loup solitaire se réveille. Cette nuit, il chasse seul.	The Lone Wolf wakes. Tonight, the hunt is a solitary one.
+L'Herboriste se réveille. Une porte s'est-elle ouverte cette nuit ?	The Herbalist wakes. Did a door open tonight?
+# --- annonces ---
+Le maire n'est plus. Le sort désigne %s pour porter l'écharpe.	The mayor is gone. Fate chooses %s to wear the sash.
+Il faut au moins %d joueurs pour commencer (ou cocher « Bots »).	At least %d players are needed to start (or tick “Bots”).
+Seul l'hôte peut exclure directement.	Only the host can remove players directly.
+Un vote d'exclusion est ouvert contre %s.	A vote to remove %s has been opened.
+On ne peut pas exclure l'hôte.	The host can't be removed.
+Ce joueur n'est plus là.	That player is no longer here.
+Le vote est acquis : %s est exclu de la partie.	The vote has passed: %s is removed from the game.
+Le vote d'exclusion contre %s n'a pas abouti.	The vote to remove %s did not pass.
+Tu as été exclu de la partie.	You have been removed from the game.
+Tu as été exclu de cette partie : tu ne peux pas y revenir.	You were removed from this game: you can't come back.
+Un vote d'exclusion est déjà en cours.	A removal vote is already under way.
+Tu ne peux pas demander ta propre exclusion.	You can't ask to remove yourself.
+L'hôte n'a pas besoin de vote : il exclut directement.	The host needs no vote: they remove players directly.
+Patiente encore %d s avant de relancer un vote.	Wait %d more s before starting another vote.
+Le maire, %s, choisit les trois quêtes du jour.	The mayor, %s, picks today's three quests.
+Votez pour la quête du jour (touches 1 à 4) : la plus votée part, tout le village avec elle, sauf ceux qui votent « Rester ». Le détail de chaque quête est au tableau.	Vote for today's quest (keys 1 to 4): the most voted one goes, and the whole village with it, except those who vote “Stay”. Each quest's details are on the board.
+%s, le maire, choisit la quête du jour parmi les trois du tableau. Les autres répondent : 1 Participer, 2 Ne pas participer.	%s, the mayor, picks today's quest from the three on the board. Everyone else answers: 1 Join, 2 Don't join.
+Premier jour. Personne n'a de rôle : il se gagne aux quêtes. %s	First day. Nobody has a role: you earn one on quests. %s
+Les équipes partent : un chemin s'ouvre dans la lisière. Les autres attendent au village.	The teams set out: a path opens in the treeline. The others wait in the village.
+Le village reste aujourd'hui : temps libre. Appuie sur {pret} quand tu es prêt à passer au Conseil.	The village stays put today: free time. Press {pret} when you're ready to go to the Council.
+Tout le monde est rentré. Appuie sur {pret} quand tu es prêt à passer au Conseil.	Everyone is back. Press {pret} when you're ready to go to the Council.
+Le village se choisit un maire. Sa voix comptera double, au Conseil comme au vote des quêtes, et il désignera son successeur. Débattez, puis appuyez tous sur {pret} quand vous êtes d'accord pour passer au vote.	The village chooses a mayor. Their vote counts double, at the Council and in the quest vote, and they will name a successor. Debate, then everyone press {pret} once you agree to go to the vote.
+Votez pour votre maire : fixez-le, puis cliquez.	Vote for your mayor: look at them, then click.
+%s est élue maire de la Ronde.	%s is elected mayor of the Ronde.
+%s était le maire : elle désigne son successeur.	%s was the mayor: they name a successor.
+%s est le nouveau maire.	%s is the new mayor.
+Le jour se lève sur la Ronde…	Day breaks over the Ronde…
+Le jour se lève. Personne n'est mort cette nuit.	Day breaks. Nobody died tonight.
+%s était le Trappeur : elle a 10 secondes pour emporter quelqu'un avec elle.	%s was the Trapper: they have 10 seconds to take someone down with them.
+La cloche appelle au Conseil. Débattez : qui sont les loups ?	The bell calls the Council. Debate: who are the wolves?
+Votez : fixez celui que vous accusez, puis cliquez. Ton vote reste secret, et tu peux en changer jusqu'à la fin.	Vote: look at the one you accuse, then click. Your vote stays secret, and you can change it until the end.
+Les voix sont comptées.	The votes are counted.
+Pas de maire pour trancher : le sort désigne qui sera attaché.	No mayor to decide: fate chooses who will be bound.
+Égalité.	A tie.
+Personne n'a voté.	Nobody voted.
+%s Le maire désigne qui sera attaché à la pierre.	%s The mayor chooses who will be bound to the stone.
+Le Conseil a tranché : %s sera attachée à la pierre. Cette nuit, les loups viendront.	The Council has decided: %s will be bound to the stone. Tonight, the wolves will come.
+%s était le Simplet : on la gracie au dernier moment. Elle ne votera plus.	%s was the Simpleton: they are pardoned at the last moment. They will no longer vote.
+Le Conseil n'a pas su trancher. Personne n'est éliminé.	The Council could not decide. Nobody is eliminated.
+Le soleil se couche. Rentrez chez vous… cette nuit, les loups se réveillent.	The sun sets. Go home… tonight, the wolves wake.
+%s a été dévorée sur la pierre.	%s was devoured on the stone.
+# --- fin de partie ---
+Le village a gagné : tous les loups sont morts.	The village has won: all the wolves are dead.
+La meute a gagné : le village est tombé.	The pack has won: the village has fallen.
+Le Loup solitaire a gagné : il est le dernier vivant.	The Lone Wolf has won: they are the last one alive.
+Les amours interdits ont gagné : ils sont les deux derniers.	The forbidden lovers have won: they are the last two.
+Personne n'a survécu à Nuit Blanche.	Nobody survived Nuit Blanche.
+# --- chronique ---
+dévoré par la meute	devoured by the pack
+tué par le loup solitaire	killed by the lone wolf
+empoisonné par l'Herboriste	poisoned by the Herbalist
+éliminé par le Conseil	eliminated by the Council
+mort de chagrin	died of grief
+emporté par le Trappeur	taken by the Trapper
+parti en pleine partie	left mid-game
+surdose	overdose
+Conseil %d	Council %d
+%s — %s : %s	%s — %s: %s
+%s — %s attaqué, sauvé par l'Herboriste	%s — %s attacked, saved by the Herbalist
+%s — %s rejoint la meute en secret	%s — %s joins the pack in secret
+Jour — %s devient maire	Day — %s becomes mayor
+Jour %d — %s gagne à la quête (%s) : %s	Day %d — %s is awarded at the quest (%s): %s
+Jour %d — %s gagne à la quête : %s	Day %d — %s is awarded at the quest: %s
+%s — personne n'a voté	%s — nobody voted
+%s (%s)	%s (%s)
+mode test	test mode
+Essai %d	Trial %d
+# --- messages privés et refus (hôte) ---
+Des yeux ouverts derrière la fenêtre de la maison %s : quelqu'un épie la nuit.	Open eyes behind the window of house %s: someone is spying in the night.
+Faux bruit lâché. Il t'en reste %d.	False noise made. You have %d left.
+Attends qu'on t'appelle.	Wait until you're called.
+Tu gardes la porte de %s, lanterne à la main.	You guard the door of %s, lantern in hand.
+Ce n'est pas le moment.	This isn't the moment.
+Le vote n'est pas ouvert.	Voting isn't open.
+C'est au maire de trancher.	It's up to the mayor to decide.
+Choisis parmi ceux qui sont à égalité.	Choose among those who are tied.
+Va au cimetière pour examiner les morts.	Go to the graveyard to examine the dead.
+Tu verses la potion de vie derrière la porte %s.	You pour the life potion behind door %s.
+Tu as versé la potion de mort chez %s.	You poured the death potion at the home of %s.
+%s est ton modèle. Si elle meurt, tu deviens loup.	%s is your role model. If they die, you become a wolf.
+Tu es enchaîné à la pierre : tu ne peux plus rien, qu'attendre la nuit.	You are chained to the stone: you can do nothing but wait for night.
+Pas maintenant.	Not now.
+Personne ici.	Nobody here.
+Il ne répond pas.	They don't respond.
+Seuls les morts hantent.	Only the dead can haunt.
+Il n'est pas en pleine quête.	They aren't in the middle of a quest.
+Approche-toi de lui.	Get closer to them.
+Pas assez d'énergie : attends qu'elle remonte.	Not enough energy: wait for it to recover.
+Rien à faire tomber.	Nothing to knock over.
+La nuit, les fantômes laissent dormir le village.	At night, ghosts let the village sleep.
+Pas assez d'énergie pour lancer.	Not enough energy to throw.
+Personne à effrayer ici.	Nobody to scare here.
+Tu as déjà effrayé cette personne aujourd'hui : elle se méfie. Reviens demain.	You already scared this person today: they're wary. Come back tomorrow.
+Tu les as déjà tous effrayés aujourd'hui. Reviens demain.	You already scared them all today. Come back tomorrow.
+Les morts ne prennent rien.	The dead take nothing.
+Personne à qui le donner.	No one to give it to.
+une page	a page
+un carnet	a notebook
+%s te glisse %s dans la main. (L pour lire)	%s slips %s into your hand. (L to read)
+On ne jette rien maintenant.	You can't throw anything now.
+Tu n'es plus de ce monde : les portes ne t'obéissent plus.	You are no longer of this world: doors no longer obey you.
+Approche-toi de la porte.	Move closer to the door.
+Cette maison est close. Celui qui y vivait n'est plus.	This house is sealed. Whoever lived here is no more.
+La nuit, les portes restent closes.	At night, the doors stay shut.
+Le jour, on passe par la porte d'entrée.	By day, use the front door.
+Seuls les loups votent à la pierre.	Only wolves vote at the stone.
+Cette nuit, le solitaire chasse seul.	Tonight, the lone wolf hunts alone.
+Attends qu'on appelle les loups.	Wait for the wolves to be called.
+La meute a déjà choisi.	The pack has already chosen.
+Va devant la porte de ta proie pour la choisir.	Go to your prey's door to choose it.
+Personne ne dort plus dans cette maison.	No one sleeps in this house anymore.
+C'est ta propre maison.	This is your own house.
+Ce n'est pas l'heure de la chasse.	It isn't time for the hunt.
+Tu es déjà dehors.	You're already outside.
+Personne n'a voté : la pierre restera froide.	Nobody voted: the stone will stay cold.
+La meute ne s'est pas mise d'accord : aucune porte ne s'ouvre.	The pack couldn't agree: no door opens.
+La porte %s s'ouvre. C'est fait. Rentrez chez vous avant l'aube.	Door %s opens. It's done. Go home before dawn.
+Derrière la porte %s, une odeur de loup. La meute recule.	Behind door %s, the smell of wolf. The pack backs away.
+Une lanterne brille derrière la porte %s : le Veilleur veille. Elle ne s'ouvre pas.	A lantern glows behind door %s: the Watchman keeps watch. It does not open.
+On ne mord que le jour.	You can only bite by day.
+Approche-toi davantage.	Get closer.
+Ta morsure est faite. Le venin agira à la nuit tombée.	Your bite is done. The venom will act at nightfall.
+Tu te transformes. Sors par la porte de derrière ({agir}) : réussis les trois coups pour l'ouvrir sans bruit.	You transform. Go out by the back door ({agir}): land all three beats to open it silently.
+Le venin a fait son œuvre. Tu es des leurs : sors, la meute t'attend à la pierre.	The venom has done its work. You are one of them: go out, the pack awaits you at the stone.
+Ton titre au village, gagné à une quête. Il ne donne aucun pouvoir : observe, écoute et démasque les loups.	Your title in the village, earned on a quest. It grants no power: watch, listen, and unmask the wolves.
+Pas encore de rôle : il se gagne aux quêtes. La première nuit, les loups seront tirés parmi ceux qui n'en ont pas.	No role yet: you earn one on quests. On the first night, the wolves will be drawn from those who have none.
+%s n'a pas survécu à la nuit.	%s did not survive the night.
+%s a été éliminée par le Conseil.	%s was eliminated by the Council.
+%s est morte de chagrin.	%s died of grief.
+%s a été abattue par le Trappeur.	%s was shot down by the Trapper.
+%s s'effondre d'un coup, les lèvres noircies. Morte.	%s collapses at once, lips blackened. Dead.
+%s a quitté le village.	%s has left the village.
+%s est morte.	%s is dead.
+Les loups t'ont attaqué cette nuit. Tu as survécu. Ce ne sera pas toujours le cas.	The wolves attacked you tonight. You survived. It won't always be so.
+Cette nuit, on a voulu ta mort. Une main inconnue t'a sauvé.	Tonight, someone wanted you dead. An unknown hand saved you.
+La quête t'a donné un rôle : %s. Il est écrit en haut à droite. Garde-le pour toi… ou pas.	The quest gave you a role: %s. It's written at the top right. Keep it to yourself… or don't.
+La nuit tombe… et quelque chose s'éveille en toi. Tu es %s. Quand on appellera les loups, rejoins la pierre.	Night falls… and something stirs within you. You are %s. When the wolves are called, go to the stone.
+La nuit tombe… et quelque chose s'éveille en toi. Tu es %s. Quand on appellera les loups, rejoins la pierre. Mais tu gagnes seul : sois le dernier vivant. Une nuit sur deux, tu chasses sans eux.	Night falls… and something stirs within you. You are %s. When the wolves are called, go to the stone. But you win alone: be the last one alive. Every other night, you hunt without them.
+Tu deviens loup. Quand on appellera les loups, rejoins la pierre.	You become a wolf. When the wolves are called, go to the stone.
+La nuit tombe… et ton cœur se retourne. Tu es le Traître : tu restes villageois aux yeux de tous, mais tu gagnes avec les loups. Tu ne sais pas qui ils sont.	Night falls… and your heart turns. You are the Traitor: you remain a villager in everyone's eyes, but you win with the wolves. You don't know who they are.
+%s est : %s.	%s is: %s.
+%s était un loup.	%s was a wolf.
+%s n'était pas un loup.	%s was not a wolf.
+Tu es lié à %s. Si l'un de vous meurt, l'autre meurt aussi.	You are bound to %s. If one of you dies, the other dies too.
+Le destin t'a donné %s pour modèle.	Fate gave you %s as your role model.
+# --- phrases des bots ---
+Moi je n'ai rien vu… et c'est bien ça qui m'inquiète.	I saw nothing… and that's exactly what worries me.
+J'ai lu l'âme de %s cette nuit. C'est un loup, je vous le jure.	I read the soul of %s tonight. They're a wolf, I swear.
+%s rôdait près du cimetière hier soir. Je l'ai vue.	%s was prowling near the graveyard last night. I saw them.
+%s était dans la quête ratée d'hier, comme par hasard.	%s was on yesterday's failed quest, what a coincidence.
+%s ne regarde personne dans les yeux. Ça ne trompe pas.	%s looks no one in the eye. That never lies.
+J'ai lu l'âme de %s. C'est un loup.	I read the soul of %s. They're a wolf.
+Les indices du tableau désignent %s. Je vote contre elle.	The clues on the board point to %s. I'm voting against them.
+Je me porte garant de %s : ce n'est pas un loup.	I vouch for %s: they're not a wolf.
+Je ne sais pas… %s me paraît bizarre depuis ce matin.	I don't know… %s has seemed strange since this morning.
+# --- quêtes (annonces du meneur) ---
+Le vote de la quête est clos.	The quest vote is closed.
+Les morts ne votent plus.	The dead no longer vote.
+Choix inconnu.	Unknown choice.
+Le village a voté : on reste aujourd'hui. Pas de quête, pas de rôle à gagner.	The village has voted: we stay today. No quest, no role to earn.
+Le village a choisi : %s. En route, sauf ceux qui restent.	The village has chosen: %s. Off you go, except those staying behind.
+Seul le maire choisit les quêtes, le matin.	Only the mayor picks the quests, in the morning.
+Choisis trois quêtes.	Choose three quests.
+Choisis trois quêtes différentes.	Choose three different quests.
+Pas le bon nombre : %s devient %s	Wrong number of players: %s becomes %s
+Pas le bon nombre : %s devient %s.	Wrong number of players: %s becomes %s.
+Trop peu de monde pour partir (%d minimum) : %s n'aura pas lieu. Temps libre au village.	Too few people to set out (%d minimum): %s is off. Free time in the village.
+Trop peu de monde pour partir (%d minimum) : %s n'aura pas lieu.	Too few people to set out (%d minimum): %s is off.
+Temps libre au village.	Free time in the village.
+Le hasard désigne Bandeau %s : il sera %s.	Chance picks the %s headband: they will be the %s.
+Bandeau %s s'est avancé : il sera %s.	The %s headband stepped forward: they will be the %s.
+Le hasard désigne %s : il sera %s.	Chance picks %s: they will be the %s.
+%s s'est avancé : il sera %s.	%s stepped forward: they will be the %s.
+marcheur	walker
+guide	guide
+lecteur	reader
+%s : réussie. %s.	%s: succeeded. %s.
+%s : réussie.	%s: succeeded.
+%s : échouée.	%s: failed.
+Quête réussie ! L'un de vous vient de recevoir %s, en secret.	Quest complete! One of you has just received %s, in secret.
+Quête réussie ! Un indice est affiché au tableau : %s	Quest complete! A clue is posted on the board: %s
+Quête ratée (%d sur %d ont réussi, il en fallait %d). Rien gagné.	Quest failed (%d of %d succeeded, %d were needed). Nothing gained.
+%s : %s	%s: %s
+# --- commandes de test ---
+Lance d'abord la partie.	Start the game first.
+Plus personne de vivant pour jouer.	No one left alive to play.
+Aucune quête en cours.	No quest in progress.
+Tu es mort : reviens d'abord à la vie.	You're dead: come back to life first.
+Tu es déjà mort.	You're already dead.
+Tu es déjà vivant.	You're already alive.
+# --- règles (partie.gd) ---
+Les morts ne votent pas.	The dead don't vote.
+Tu as perdu ton droit de vote.	You have lost your right to vote.
+On ne peut accuser que les vivants.	Only the living can be accused.
+On ne vote pas pour soi.	You can't vote for yourself.
+Ce n'est pas à toi de choisir.	It's not for you to choose.
+Choisis un vivant.	Choose someone who's alive.
+Joueur inconnu.	Unknown player.
+Ce n'est pas à toi de tirer.	It's not for you to shoot.
+Vise un vivant.	Aim at someone who's alive.
+Tu es mort.	You're dead.
+Seule la meute tue, la nuit.	Only the pack kills, at night.
+Choisis une proie vivante, hors de la meute.	Choose a living prey, outside the pack.
+La porte est gardée.	The door is guarded.
+Seul le Loup vampire mord, et seulement le jour.	Only the Vampire Wolf bites, and only by day.
+Tu as déjà mordu : une seule morsure par partie.	You've already bitten: one bite per game.
+Mords un vivant.	Bite someone who's alive.
+Seul le Loup solitaire chasse seul.	Only the Lone Wolf hunts alone.
+Pas cette nuit : une nuit sur deux.	Not tonight: every other night.
+Seule la Liseuse lit les âmes, la nuit.	Only the Soul Reader reads souls, at night.
+Tu as déjà lu une âme cette nuit.	You've already read a soul tonight.
+Choisis une autre maison habitée.	Choose another occupied house.
+Plus de potion de mort.	No death potion left.
+Plus de potion de vie.	No life potion left.
+Cette personne n'a pas été attaquée.	That person wasn't attacked.
+L'Entremetteuse ne lie qu'un seul couple.	The Matchmaker binds only one couple.
+Choisis deux vivants différents.	Choose two different living players.
+L'Enfant sauvage a déjà choisi son modèle.	The Wild Child has already chosen a role model.
+Choisis un autre joueur.	Choose another player.
+Seul le Veilleur garde une porte, la nuit.	Only the Watchman guards a door, at night.
+Choisis une maison habitée.	Choose an occupied house.
+Tu as gardé cette porte la nuit dernière : choisis-en une autre.	You guarded this door last night: choose another.
+Plus de faux bruit.	No false noises left.
+Le Fossoyeur examine les morts le jour.	The Gravedigger examines the dead by day.
+Un examen par jour.	One examination per day.
+On n'examine que les morts.	Only the dead can be examined.
+Action inconnue.	Unknown action.
+# --- indices (partie.gd) ---
+Un loup dort chez %s, %s ou %s.	A wolf sleeps in the house of %s, %s or %s.
+%s n'est pas un loup.	%s is not a wolf.
+La meute compte encore %d loups.	The pack still has %d wolves.
+La meute compte encore %d loup.	The pack still has %d wolf.
+Personne n'est encore loup : le mal s'éveillera cette nuit, parmi ceux qui n'ont pas de rôle.	Nobody is a wolf yet: evil will awaken tonight, among those with no role.
+Les bois sont calmes : plus aucun loup ne rôde.	The woods are calm: no wolf prowls any more.
+Les loups ne sont pas tous parmi ceux qui ont fait cette quête.	Not all the wolves are among those who did this quest.
+Un loup dort du côté %s du village (maisons %s à %s).	A wolf sleeps on the %s side of the village (houses %s to %s).
+levant	east
+couchant	west
+Au moins un loup a participé à cette quête.	At least one wolf took part in this quest.
+Aucun loup n'a participé à cette quête.	No wolf took part in this quest.
+Un loup dort dans une maison au numéro %s.	A wolf sleeps in a house whose number is %s.
+pair	even
+impair	odd
+La Liseuse a déjà lu l'âme d'un loup.	The Soul Reader has already read a wolf's soul.
+La Liseuse n'a encore jamais vu de loup.	The Soul Reader has never yet seen a wolf.
+Exactement %d loups ont participé à cette quête.	Exactly %d wolves took part in this quest.
+Exactement %d loup a participé à cette quête.	Exactly %d wolf took part in this quest.
+L'un de ces deux est un loup : %s ou %s.	One of these two is a wolf: %s or %s.
+Le loup vampire a déjà mordu quelqu'un.	The Vampire Wolf has already bitten someone.
+Le loup vampire n'a encore mordu personne.	The Vampire Wolf has not bitten anyone yet.
+Un loup est lié à un villageois.	A wolf is bound to a villager.
+Deux âmes sont liées, et aucune n'est loup… ou toutes deux le sont.	Two souls are bound, and neither is a wolf… or both are.
+# --- streamer ---
+Copier le code	Copy code
+Code copié ✓	Code copied ✓
+Le chat peut voter : « !vote <couleur du bandeau> »	Chat can vote: “!vote <headband color>”
+Le chat voulait un maire	Chat wanted a mayor
+Le chat a voté	Chat voted
+Le chat n'a pas voté.	Chat didn't vote.
+Le chat soupçonne : Bandeau %s (%d %%)	Chat suspects: %s headband (%d%%)
+Le chat voulait élire : Bandeau %s (%d %%)	Chat wanted to elect: %s headband (%d%%)
+Bandeau %s (%d %%)	Headband: %s (%d%%)
+%d spectateurs	%d viewers
+%d spectateur	%d viewer
+Chat Twitch	Twitch chat
+Chat Twitch (connexion…)	Twitch chat (connecting…)
+# --- réseau ---
+Par Steam : tes amis te rejoignent sans rien régler sur leur box.	Via Steam: your friends join you without touching their router.
+Même maison : %s	Same home: %s
+Par Internet : %s  (port ouvert automatiquement)	Over the Internet: %s  (port opened automatically)
+Par Internet : ta box n'a pas ouvert le port toute seule.	Over the Internet: your router didn't open the port by itself.
+Ouvre le port %d (UDP) vers ce PC, ou utilisez Tailscale (gratuit).	Forward port %d (UDP) to this PC, or use Tailscale (free).
+Au village de Nuit Blanche	In the village of Nuit Blanche
+# --- noms de quêtes en minuscules (« Pas le bon nombre : le chaudron devient… ») ---
+les runes	the runes
+le pont de planches	the plank bridge
+le grand coffre	the great chest
+la dame blanche	the white lady
+les lanternes du marais	the marsh lanterns
+les cloches	the bells
+le chaudron	the cauldron
+le puits	the well
+le moulin	the mill
+la balance	the scales
+le radeau des rapides	the rapids raft
+l'incendie de la grange	the barn fire
+# --- étiquettes de bandeau ---

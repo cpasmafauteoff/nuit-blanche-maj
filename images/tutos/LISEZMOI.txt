@@ -1,0 +1,1 @@
+Déposer ici une image par carte (voir tutos_synchro.gd), ex. voix.png

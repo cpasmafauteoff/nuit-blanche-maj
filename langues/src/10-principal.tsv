@@ -1,0 +1,369 @@
+# G1 : principal.gd (la vue du joueur local). francais<TAB>anglais.
+Chuchoter	Whisper
+Parler	Talk
+Crier	Shout
+Chuchote	Whispering
+Parle	Talking
+Crie	Shouting
+Tout le monde se couche	Everyone goes to bed
+L'Entremetteuse	The Matchmaker
+L'Enfant sauvage	The Wild Child
+Le Veilleur	The Night Watchman
+La Liseuse d'âmes	The Soul Reader
+Les loups	The wolves
+Le Loup solitaire	The Lone Wolf
+L'Herboriste	The Herbalist
+La pierre	The stone
+Le salon	The lobby
+La nuit tombe	Night falls
+La nuit	The night
+L'aube	Dawn
+Le Trappeur	The Trapper
+Le Conseil	The Council
+Le vote	The vote
+Le dépouillement	The count
+Le maire tranche	The mayor decides
+Le verdict	The verdict
+Fin de la partie	End of the game
+Le vote de la quête	The quest vote
+Les quêtes	The quests
+Le retour au village	Back to the village
+L'élection du maire	The mayor's election
+Le vote du maire	The mayor vote
+Le maire	The mayor
+Le successeur	The successor
+Nuit %d  ·  %s	Night %d  ·  %s
+Nuit %d  ·	Night %d  ·
+Maire : %s	Mayor: %s
+toi	you
+Toi	You
+quelqu'un	someone
+Quelqu'un	Someone
+mort	dead
+loup	wolf
+(toi)	(you)
+Marcheur	Walker
+Guide	Guide
+Lecteur	Reader
+L'hôte a quitté la partie.	The host has left the game.
+Photo ratée : recommence, bien en face de la caméra.	Bad photo: try again, facing the camera.
+Photo prise ✓  Elle reste sur ton PC.	Photo taken ✓  It stays on your PC.
+Photo effacée.	Photo deleted.
+Ce lobby est complet (%d joueurs).	This lobby is full (%d players).
+%d images/s	%d fps
+hors ligne	offline
+%s : ping %d ms, pertes %.0f %%, gigue %d ms, %.0f états/s	%s: ping %d ms, loss %.0f %%, jitter %d ms, %.0f states/s
+  (muet depuis %.1f s)	  (silent for %.1f s)
+Les vivants votent. Toi, tu ne peux que regarder.	The living are voting. All you can do is watch.
+On t'enchaîne sur la pierre. Tu ne peux plus parler. Cette nuit, les loups viendront.	They chain you to the stone. You can't speak anymore. Tonight, the wolves will come.
+Tu es enchaîné à la pierre. Tu ne peux plus parler. Cette nuit, les loups viendront.	You are chained to the stone. You can't speak anymore. Tonight, the wolves will come.
+Tu es mort. Les vivants ne te voient pas et ne t'entendent pas ; les autres morts, si. Approche-toi d'un joueur en quête pour le hanter ({agir}), ou ramasse des cailloux à lui lancer. Devant un vivant, {agir} te fait apparaître en monstre ; %s, devant tous ceux autour (une frayeur par vivant et par jour). Ton énergie remonte avec le temps.	You are dead. The living can't see or hear you; the other dead can. Get close to a player on a quest to haunt them ({agir}), or pick up stones to throw at them. In front of a living player, {agir} makes you appear as a monster; %s, in front of everyone around (one scare per living player per day). Your energy comes back with time.
+Faux bruit	Fake noise
+Il t'en reste %d. Le bruit part là où tu regardes.	You have %d left. The noise goes where you're looking.
+Faire un faux bruit là-bas	Make a fake noise over there
+Approche-toi de quelqu'un à le toucher et maintiens {mordre} trois secondes. Une seule morsure de toute la partie. S'il est loup, tu meurs.	Get close enough to touch someone and hold {mordre} for three seconds. One bite for the whole game. If they're a wolf, you die.
+Tu as déjà mordu.	You have already bitten.
+Examiner un mort	Examine a dead player
+Au cimetière, tu apprends s'il était loup. Un par jour.	At the graveyard, you learn whether they were a wolf. One per day.
+Personne n'est encore mort.	Nobody has died yet.
+Lier deux âmes	Bind two souls
+Choisis le premier.	Choose the first one.
+Lié à %s… et à qui ?	Bound to %s… and to whom?
+Ton modèle	Your role model
+Choisis-le dans ton carnet. S'il meurt, tu deviens loup.	Pick them in your notebook. If they die, you become a wolf.
+Garder une porte	Guard a door
+Quelle porte garderas-tu cette nuit, lanterne à la main ? (Jamais deux nuits de suite la même.)	Which door will you guard tonight, lantern in hand? (Never the same one two nights in a row.)
+Ton carnet	Your notebook
+Les noms des vivants, à l'encre. Touche-en un : tu sauras s'il est loup.	The names of the living, in ink. Touch one and you'll know whether they're a wolf.
+Aucune porte ne s'est ouverte cette nuit.	No door opened tonight.
+Cette nuit, la porte de la maison %s s'est ouverte.	Tonight, the door of house %s opened.
+Potion de vie derrière la porte %s	Life potion behind door %s
+Potion de mort	Death potion
+Chez qui la verser ? Il ne se réveillera pas.	Who will you pour it for? They won't wake up.
+Potion de mort…	Death potion…
+Tes fioles sont vides.	Your vials are empty.
+Tes fioles	Your vials
+Le tableau des quêtes	The quest board
+Joueurs requis : %s	Players required: %s
+4 · Rester au village — pas de quête aujourd'hui.	4 · Stay in the village — no quest today.
+Le maire choisit seul la quête ; les autres participent ou non.	The mayor alone picks the quest; the others take part or not.
+La quête la plus votée part avec tout le village, sauf ceux qui restent.	The most-voted quest sets out with the whole village, except those who stay behind.
+Réussie, une quête à rôle donne un rôle à l'un de ses joueurs, tiré au sort ; une quête à indice affiche un indice ici, pour tout le village.	If it succeeds, a role quest gives a role to one of its players, chosen at random; a clue quest shows a clue here, for the whole village.
+%d min, %d max (pas %s)	%d min, %d max (not %s)
+%d min (pas %s)	%d min (not %s)
+%d min, %d max	%d min, %d max
+%d min	%d min
+Tu es le maire	You are the mayor
+Choisis les trois quêtes du jour (%d / %d). Un rôle de plus pour le village, ou un indice ?	Choose the three quests of the day (%d / %d). One more role for the village, or a clue?
+un titre	a title
+un rôle	a role
+un indice	a clue
+Les quêtes du jour sont affichées au tableau.	Today's quests are posted on the board.
+Il faut toujours un éliminé. Qui sera attaché à la pierre cette nuit ?	Someone must always be eliminated. Who will be chained to the stone tonight?
+Le dépouillement : personne n'a voté.	The count: nobody voted.
+Le dépouillement :	The count:
+%s — %d voix	%s — %d votes
+%s (toi) — %d voix	%s (you) — %d votes
+%s — 1 voix	%s — 1 vote
+%s (toi) — 1 voix	%s (you) — 1 vote
+Égalité : le maire va trancher.	Tie: the mayor will decide.
+Ton successeur	Your successor
+Tu meurs, maire. Qui portera l'écharpe après toi ?	You are dying, mayor. Who will wear the sash after you?
+Ton dernier tir	Your last shot
+Tu meurs. Qui emportes-tu avec toi ?	You are dying. Who do you take with you?
+Qui sera le %s ? Entre dans la zone lumineuse, à gauche, pour l'être. Sinon le hasard décide dans %d s.	Who will be the %s? Step into the glowing zone on the left to be it. Otherwise chance decides in %d s.
+%s : %s. Rejoins ton poste…	%s: %s. Take your post…
+Un souffle glacé te passe sur les mains…	An icy breath passes over your hands…
+L'emplacement %d est vide.	Slot %d is empty.
+Pas maintenant : on ne jette rien ici.	Not now: you can't throw anything here.
+Tu ne tiens rien à lire. Les carnets sont sur la table de chaque maison.	You're holding nothing to read. Notebooks are on the table in every house.
+Un caillou : clic gauche pour viser, clic droit pour lancer.	A stone: left-click to aim, right-click to throw.
+{agir} : donner %s à %s	{agir}: give %s to %s
+{agir} : ramasser %s	{agir}: pick up %s
+{agir} : prendre %s	{agir}: take %s
+Inventaire plein (%d/%d) : lâche ou lance quelque chose pour ramasser %s	Inventory full (%d/%d): drop or throw something to pick up %s
+énergie %d %%	energy %d %%
+%s : apparaître à tous ceux autour	%s: appear to everyone around
+Trop faible pour hanter %s	Too weak to haunt %s
+{agir} : hanter %s	{agir}: haunt %s
+Trop faible pour apparaître à %s	Too weak to appear to %s
+{agir} : apparaître en monstre devant %s	{agir}: appear as a monster in front of %s
+E ou clic : lancer le caillou	E or click: throw the stone
+{agir} : ramasser un caillou	{agir}: pick up a stone
+Trop faible pour lancer : attends que ton énergie remonte.	Too weak to throw: wait for your energy to come back.
+Aïe ! Un caillou… venu de nulle part.	Ouch! A stone… from out of nowhere.
+{agir} : t'asseoir	{agir}: sit down
+{agir} : t'asseoir sur le lit	{agir}: sit on the bed
+{agir} : lire le tableau des quêtes	{agir}: read the quest board
+{agir} : fermer la porte	{agir}: close the door
+{agir} : ouvrir la porte	{agir}: open the door
+{pouvoir} : examiner un mort	{pouvoir}: examine a dead player
+Tu t'assois. Bouge pour te lever.	You sit down. Move to stand up.
+Pause	Pause
+{emotes} : animations · {accroupir} : s'accroupir · Clic gauche : interagir face à quelqu'un, voter · 1 à 4 : tes objets · {reseau} : réseau\nLes touches se changent dans Réglages → Touches.	{emotes}: animations · {accroupir}: crouch · Left click: interact with someone, vote · 1 to 4: your items · {reseau}: network\nKeys can be changed in Settings → Keys.
+Reprendre	Resume
+Réglages (son, micro, touches, graphismes)	Settings (sound, mic, keys, graphics)
+Réglage du regard	Gaze calibration
+Quitter la partie (retour au menu)	Leave the game (back to menu)
+Quitter le jeu	Quit the game
+Réglages	Settings
+◀  Retour	◀  Back
+C'est réglé	All set
+Recommencer	Start over
+Gestes et danses	Gestures and dances
+1 à 9 · {emotes} pour fermer · bouger arrête la danse	1 to 9 · {emotes} to close · moving stops the dance
+Jusqu'à 300 % pour qui parle trop bas · {volumes} ou Échap pour fermer	Up to 300 % for anyone who speaks too quietly · {volumes} or Esc to close
+Vert : le micro te capte. {portee} change la portée. Clic ou {volumes} : le volume de chaque joueur.	Green: the mic hears you. {portee} changes your range. Click or {volumes}: each player's volume.
+{portee} : changer de mode	{portee}: change mode
+Micro coupé	Mic off
+Tout le monde t'entend	Everyone can hear you
+%s · %d m	%s · %d m
+Tu es villageois, sans rôle pour l'instant.	You are a villager, with no role for now.
+Tu es : %s	You are: %s
+Les rôles se gagnent aux quêtes du jour : quand une équipe réussit, l'un d'elle reçoit un rôle en secret.	Roles are won on the day's quests: when a team succeeds, one of them receives a role in secret.
+Les loups (%d) sont tirés la première nuit, parmi ceux qui n'ont encore rien gagné.	The wolves (%d) are drawn on the first night, among those who haven't won anything yet.
+Les joueurs	Players
+Muet	Mute
+Exclure	Kick
+Confirmer l'exclusion	Confirm kick
+Demander l'exclusion	Request a kick
+Confirmer la demande	Confirm request
+Vote d'exclusion : {exclusion_oui} pour Oui, {exclusion_non} pour Non.	Kick vote: {exclusion_oui} for Yes, {exclusion_non} for No.
+Installe-toi comme quand tu joues. La caméra ne garde aucune image :\nseuls des nombres (yeux, tête, expressions) arrivent au jeu.	Sit as you would when playing. The camera keeps no image:\nonly numbers (eyes, head, expressions) reach the game.
+Changer de caméra	Change camera
+Taille de ton écran (pouces)	Your screen size (inches)
+Distance entre tes yeux et l'écran (cm)	Distance between your eyes and the screen (cm)
+Prendre la mesure de la caméra	Measure with the camera
+Suivre la luciole des yeux (15 s)	Follow the firefly with your eyes (15 s)
+Garder mon dernier réglage	Keep my last setting
+Jouer sans webcam	Play without a webcam
+Démarrage du capteur…	Starting the sensor…
+Je cherche ta caméra…	Looking for your camera…
+Aucune caméra ici : clique sur « Changer de caméra ».	No camera here: click “Change camera”.
+La caméra ne donne plus d'image.	The camera is no longer sending an image.
+Je ne vois pas ton visage : place-toi face à la caméra, bien éclairé.	I can't see your face: face the camera, well lit.
+Le capteur ne répond plus : « Changer de caméra » le relance.	The sensor is no longer responding: “Change camera” restarts it.
+Le capteur n'a pas pu démarrer (ports 4243-4244 déjà pris ?).	The sensor couldn't start (ports 4243-4244 already in use?).
+Le capteur démarre…	The sensor is starting…
+Visage détecté ✓	Face detected ✓
+Mode souris (essai sans caméra)	Mouse mode (trying without a camera)
+Webcam désactivée : tes yeux clignent tout seuls.	Webcam off: your eyes blink on their own.
+Caméra : %s	Camera: %s
+Impossible d'héberger : le port %d est déjà pris (une autre partie ouverte ?).	Can't host: port %d is already in use (another game open?).
+Code du lobby : préparation…	Lobby code: getting ready…
+Code du lobby :   %s	Lobby code:   %s
+Je cherche le lobby %s…	Looking for lobby %s…
+Aucun lobby ouvert avec le code %s. Vérifie les 5 chiffres.	No open lobby with code %s. Check the 5 digits.
+Lobby trouvé, connexion à l'hôte…	Lobby found, connecting to the host…
+Quitte d'abord ta partie pour rejoindre ton ami.	Leave your game first to join your friend.
+Connexion à ton ami par Steam…	Connecting to your friend through Steam…
+Cet hôte joue par Steam : ouvre Steam sur ce PC, puis réessaie.	This host plays through Steam: open Steam on this PC, then try again.
+Le lobby existe mais l'hôte ne répond pas : sa box bloque peut-être le port %d.\nEssayez avec Tailscale (gratuit), ou que l'hôte ouvre ce port.	The lobby exists but the host isn't answering: their router may be blocking port %d.\nTry Tailscale (free), or have the host open this port.
+Je n'ai pas assez vu tes yeux.\nPlace-toi face à la caméra, bien éclairé, et recommence.	I didn't see your eyes well enough.\nFace the camera, well lit, and start over.
+Précision du regard : %.1f cm sur ton écran	Gaze accuracy: %.1f cm on your screen
+Excellent : tu sauras qui tu regardes, même au Conseil à 12.	Excellent: you'll know who you're looking at, even at a Council of 12.
+Faible : rapproche-toi d'une lumière (face à toi, pas derrière) et recommence.	Poor: move closer to a light (in front of you, not behind) and start over.
+Bon : largement assez pour savoir quel joueur tu regardes.	Good: more than enough to tell which player you're looking at.
+La caméra te mesure à %d cm	The camera measures you at %d cm
+La caméra ne mesure pas encore ta distance	The camera isn't measuring your distance yet
+lu sur Windows ✓	read from Windows ✓
+Tu obtiens ton rôle après la première nuit	You get your role after the first night
+{pret} : passer au vote  %d / %d	{pret}: go to the vote  %d / %d
+Tu veux passer au vote.	You want to go to the vote.
+On attend les autres  %d / %d…	Waiting for the others  %d / %d…
+Tout le monde peut être maire. Dis qui tu veux (ou propose-toi) — le vote suivra : tu fixeras ton choix, puis clic.	Anyone can be mayor. Say who you want (or put yourself forward) — the vote will follow: stare at your choice, then click.
+{pouvoir} : désigner ton successeur	{pouvoir}: name your successor
+{pouvoir} : désigner qui sera attaché à la pierre	{pouvoir}: choose who will be chained to the stone
+Tu es dans la clairière : le portail ne s'ouvrira qu'à la fin de la quête.	You are in the clearing: the portal will only open when the quest ends.
+Ton équipe part vers la clairière de la quête… suis le sentier.	Your team is heading to the quest clearing… follow the path.
+C'est fini : tu rentres au village.	It's over: you're heading back to the village.
+Touche 1 : participer · touche 2 : ne pas participer	Key 1: take part · key 2: don't take part
+Vote pour la quête du jour : touches 1 à 4	Vote for today's quest: keys 1 to 4
+Ton vote : %d · tu peux encore changer d'avis	Your vote: %d · you can still change your mind
+{pouvoir} : rouvrir ton carnet	{pouvoir}: reopen your notebook
+{pouvoir} : choisir qui tu emportes	{pouvoir}: choose who you take with you
+{poser} : lâcher %s	{poser}: drop %s
+1 à 4 : changer d'objet	1 to 4: switch item
+Écoute… tu as l'oreille collée au mur.	Listen… your ear is pressed to the wall.
+Raté ! Tu as fait du bruit…	Missed! You made noise…
+Le maire a décidé de rester au village	The mayor has decided to stay in the village
+Le maire a choisi la quête « %s »	The mayor chose the quest “%s”
+Tu choisis la quête du jour	You choose today's quest
+Le maire choisit la quête du jour…	The mayor is choosing today's quest…
+Clic : voter pour %s	Click: vote for %s
+Vise quelqu'un et clique pour voter pour lui comme maire.	Aim at someone and click to vote for them as mayor.
+Tu votes pour %s. Clique sur quelqu'un d'autre pour changer, jusqu'à la fin du temps.	You are voting for %s. Click someone else to change, until time runs out.
+Clic : accuser %s	Click: accuse %s
+Tu fixes %s…	You are staring at %s…
+Tu accuses %s. Fixe quelqu'un d'autre pour changer.	You are accusing %s. Look at someone else to change.
+Fixe celui que tu accuses.	Look at the one you accuse.
+Tu accuses %s.	You are accusing %s.
+{agir} : sortir sans bruit (trois coups)	{agir}: sneak out (three knocks)
+Maintiens {agir} : écarter le rideau, doucement	Hold {agir}: gently part the curtain
+{agir} : fermer ta porte	{agir}: close your door
+{agir} : ouvrir ta porte	{agir}: open your door
+K : une réussite	K: an achievement
+N : la bougie	N: the candle
+H (maintenir, contre un mur) : écouter dehors	H (hold, against a wall): listen outside
+{lire} : le carnet	{lire}: the notebook
+Tu rallumes ta bougie.	You relight your candle.
+Tu souffles ta bougie. Il fait noir.	You blow out your candle. It's dark.
+Un loup a vu ton rideau bouger. Il sait qui tu es.	A wolf saw your curtain move. It knows who you are.
+La porte de derrière : frappe quand le curseur passe dans la zone ({agir}).	The back door: knock when the cursor passes through the zone ({agir}).
+Coups : %s	Knocks: %s
+La porte claque contre le mur : tout le village a dû l'entendre !	The door slams against the wall: the whole village must have heard it!
+La porte grince : on a pu l'entendre.	The door creaks: someone may have heard it.
+Un léger grincement…	A faint creak…
+La porte s'ouvre sans un bruit.	The door opens without a sound.
+Frappe quand le curseur passe dans la zone claire ({agir}, Espace ou clic).	Knock when the cursor passes through the light zone ({agir}, Space or click).
+Tu te transformes… Va à ta porte de derrière pour sortir.	You are transforming… Go to your back door to get out.
+C'est fait. Rentre chez toi avant l'aube.	It's done. Get home before dawn.
+Tu as choisi la porte %s. La meute doit s'accorder.	You chose door %s. The pack must agree.
+Clic : choisir la porte %s	Click: choose door %s
+Va devant la porte de ta proie (numéro rouge) et clique. Sans bruit.	Go to your prey's door (red number) and click. Quietly.
+Clic : voter pour la porte %s	Click: vote for door %s
+Tu as voté pour la porte %s. Fixe une autre maison pour changer.	You voted for door %s. Look at another house to change.
+Fixe la maison de ta proie, puis clique.	Look at your prey's house, then click.
+Tu mords %s… ne te fais pas voir.	You are biting %s… don't be seen.
+Maintiens {mordre} : mordre %s	Hold {mordre}: bite %s
+Tu as vu %s se pencher sur le cou de %s… longtemps.	You saw %s lean over the neck of %s… for a long time.
+Les villageois viennent te chercher.	The villagers are coming for you.
+Pas avant d'avoir choisi ta proie : la meute t'attend.	Not before you've chosen your prey: the pack is waiting.
+Sors par derrière. Rejoins la pierre. Choisis une porte avec la meute.	Go out the back. Join the stone. Choose a door with the pack.
+Un loup t'a vue. Il sait qui tu es.	A wolf saw you. It knows who you are.
+Guetteuse : entrouvre les yeux pour épier, doucement.	Watcher: open your eyes a crack to spy, gently.
+Tu épies à travers tes cils.	You spy through your lashes.
+Yeux grands ouverts : s'ils passent, ils vont te voir !	Eyes wide open: if they pass by, they'll see you!
+Tu ouvres les yeux… mais il fait noir comme dans un four. Écoute.	You open your eyes… but it's pitch black. Listen.
+Un bruit, près de la maison %s.	A noise, near house %s.
+Un bruit, près de la maison %s (la tienne).	A noise, near house %s (yours).
+Pendant le vote, ta voix ne change pas.	During the vote, your voice doesn't change.
+%s (%d m) — au Conseil, tout le monde t'entend.	%s (%d m) — at the Council, everyone can hear you.
+%s : on t'entend à %d m.	%s: you can be heard up to %d m away.
+Tu es enchaîné : tu ne peux plus rien, qu'attendre la nuit.	You are chained: there's nothing left to do but wait for night.
+Trop faible pour apparaître à tous : attends que ton énergie remonte.	Too weak to appear to everyone: wait for your energy to come back.
+Suis la luciole des yeux, sans bouger la tête	Follow the firefly with your eyes, without moving your head
+Fixe-la…	Stare at it…
+Interagir	Interact
+Avec %s	With %s
+Tu proposes : %s	You offer: %s
+une poignée de main	a handshake
+de chuchoter à ton oreille	to whisper in your ear
+une accolade	a hug
+%s te propose %s : clic gauche pour accepter	%s proposes %s: left-click to accept
+%s te montre du doigt.	%s points at you.
+Bandeau rouge	Red headband
+bandeau rouge	red headband
+Bandeau bleu	Blue headband
+bandeau bleu	blue headband
+Bandeau jaune	Yellow headband
+bandeau jaune	yellow headband
+Bandeau vert	Green headband
+bandeau vert	green headband
+Bandeau blanc	White headband
+bandeau blanc	white headband
+Bandeau orange	Orange headband
+bandeau orange	orange headband
+Bandeau violet	Purple headband
+bandeau violet	purple headband
+Bandeau rose	Pink headband
+bandeau rose	pink headband
+Bandeau turquoise	Teal headband
+bandeau turquoise	teal headband
+Bandeau doré	Gold headband
+bandeau doré	gold headband
+Bandeau marron	Brown headband
+bandeau marron	brown headband
+Bandeau gris	Gray headband
+bandeau gris	gray headband
+Bandeau bleu ciel	Sky blue headband
+bandeau bleu ciel	sky blue headband
+Bandeau vert pomme	Apple green headband
+bandeau vert pomme	apple green headband
+Bandeau bordeaux	Burgundy headband
+bandeau bordeaux	burgundy headband
+Bandeau mauve	Mauve headband
+bandeau mauve	mauve headband
+cette personne	this person
+rôle	role
+{agir} : la bougie	{agir}: the candle
+{agir} : tes réussites	{agir}: your achievements
+{agir} : écouter dehors (maintenir)	{agir}: listen outside (hold)
+Pas encore : la meute se prépare.	Not yet: the pack is getting ready.
+C'est la maison d'un des tiens.	That's the house of one of your own.
+Le loup en toi a pris le dessus : tu es sorti malgré toi. Rejoins la pierre.	The wolf in you took over: you went out despite yourself. Join the stone.
+Tu te transformes. Sors par ta porte ({agir}) : réussis les trois coups pour l'ouvrir sans bruit.	You're transforming. Go out through your door ({agir}): land all three knocks to open it silently.
+Mise à jour installée  ·  	Update installed  ·  
+Le village se prépare…	The village is getting ready…
+La porte : frappe quand le curseur passe dans la zone ({agir}).	The door: knock when the cursor crosses the zone ({agir}).
+Tu es rentré chez toi. Rendors-toi : la nuit continue.	You're back home. Go back to sleep: the night goes on.
+Tu te transformes… Va à ta porte pour sortir.	You're transforming… Go to your door to get out.
+Prépare-toi : le choix de la porte s'ouvre dans %d s. Rejoins la pierre.	Get ready: choosing the door opens in %d s. Join the stone.
+Cette porte (bleue) est celle d'un des tiens : choisis un villageois.	This (blue) door belongs to one of your own: choose a villager.
+Transformation	Transformation
+Préparation	Preparation
+Choix de la porte	Choosing the door
+Tu es de retour dans ta chambre. La nuit continue…	You're back in your room. The night goes on…
+Sors par ta porte. Rejoins la pierre. Choisis une porte avec la meute.	Go out through your door. Join the stone. Choose a door with the pack.
+La page des bandeaux est cousue au carnet.	The headband page is sewn into the notebook.
+Va à ta porte, là où brille la lueur, et appuie sur {agir} : sortir sans bruit se mérite.	Go to your door, where the glow shines, and press {agir}: getting out silently must be earned.
+# Invite du bas : un seul mot par cible (regles/invites.gd)
+Donner	Give
+Page	Page
+Livre	Book
+Caillou	Stone
+Hanter	Haunt
+Apparaître	Appear
+S'asseoir	Sit
+Tableau	Board
+Porte	Door
+Examiner	Examine
+Désigner	Pick
+Choisir	Choose
+Sortir	Go out
+Rideau	Curtain
+Bougie	Candle
+Écouter	Listen
+Aïe ! Un caillou en pleine tête.	Ouch! A stone right on the head.
+Dans la tête !	Right on the head!
+Touché !	Hit!

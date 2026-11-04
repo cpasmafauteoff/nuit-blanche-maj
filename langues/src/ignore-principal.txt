@@ -1,0 +1,49 @@
+# G1 : logs de debug, textes d'essai, fragments deja traduits (espaces/retours en bordure)
+  C'est réglé  
+  Suivre la luciole des yeux (15 s)  
+ (la tienne)
+, réveillé
+Meneur
+Rosalie ment. Je l'ai vue près du puits avant la nuit.
+Tu es : %s\\n%s
+Un bruit, près de la maison %s%s.
+Votez
+[appel] %s (moi : %s%s)
+[auto] etape=%s mode=%s peut=%s panneau=%s salon=%s noir=%s cine=%.1f chemin=%d dir=%s
+[battement] t=%.1f phase=%s mode=%s
+[carnet] %s maison=%d porteur=%d texte=%s pages=%s
+[essai] fin forcée de la partie
+[exclusion] je demande l'exclusion de 
+[exclusion] l'hôte exclut 
+[exclusion] vote contre %d demandé par %d (électeurs %s)
+[fin] nuits des loups reçues : %d (échantillons : %s)
+[image] %.0f ms à t=%.1f (%s)
+[lobby] connecté au lobby 
+[objets] cailloux au sol (hôte) : 
+[parole] %s : %s
+[phase] %s -> %s  (t=%.0f s, role=%s, vivant=%s)
+[photo %02d] mode=%s pos=%s guide=%d bloque=%.1f auto=%d
+[progression] +%d XP, niveau %d, succès %s
+[pub reçu] phase=%s synchro=%s t=%.1f
+[pub traité] en %d ms
+[reseau] %d est en %s (mon corps en %s) phase %s voix %s
+[reseau] %d états reçus, gigue max %.0f ms, dernière %.0f ms, %.0f images/s, %s
+[reseau] bras de %d : poids %.2f, direction %s, main %.2f
+[retour] de %s au salon
+[retour] l'hôte clique Commencer
+[retour] l'hôte clique Rejouer
+[retour] l'invité quitte pendant l'écran de fin
+[retour] village reconstruit en %d ms
+[synchro] prêt (%d maisons)
+[synchro] scène ouverte
+[tchat] %s : %s
+[voix] phase=%s je suis %s, j'entends %s
+\\nLes loups (%d) sont tirés la première nuit, parmi ceux qui n'ont encore rien gagné.
+\\nTes fioles sont vides.
+\\n\\nLes rôles se gagnent aux quêtes du jour : quand une équipe réussit, l'un d'elle reçoit un rôle en secret.
+\\n\\nTu ouvres les yeux… mais il fait noir comme dans un four. Écoute.
+\nTes fioles sont vides.
+Tu es : %s\n%s
+\n\nLes rôles se gagnent aux quêtes du jour : quand une équipe réussit, l'un d'elle reçoit un rôle en secret.
+\nLes loups (%d) sont tirés la première nuit, parmi ceux qui n'ont encore rien gagné.
+\n\nTu ouvres les yeux… mais il fait noir comme dans un four. Écoute.

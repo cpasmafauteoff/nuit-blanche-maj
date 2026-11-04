@@ -1,0 +1,130 @@
+# G4 : succes (traduits via Succes.nom/description et Langue.code()), noms d'os/animations/noeuds
+A Calling
+A Thousand Faces
+Agneau parmi les loups
+All Alone
+Amours interdits
+Appear as a monster in front of someone.
+Atours
+Atteins le niveau 10.
+Atteins le niveau 30.
+Au bord du gouffre
+Bon flair
+Boo !
+Bête de somme
+Chasseur de loups
+Cinq nuits blanches
+Complete a hard quest.
+Complete a quest.
+Complete an extreme quest.
+Complete three quests in a single game.
+Croc vainqueur
+Crouch_Idle
+Dance
+Dix victoires
+Doyen du village
+Edge of the Abyss
+Eyes Open
+Fais une apparition en monstre devant quelqu'un.
+First Night
+First Quest
+Five White Nights
+Forbidden Love
+Gagne alors que tu es mort.
+Gagne avec le village, sans être un loup.
+Gagne avec les amours interdits.
+Gagne dix parties.
+Gagne en Loup solitaire.
+Gagne en loup sans jamais avoir reçu une seule voix au Conseil.
+Gagne en étant loup.
+Gagne un rôle en réussissant une quête.
+Gagne une partie.
+Get at least two votes at the Council, survive and win with the village.
+Get elected mayor.
+Good Nose
+Habitué du village
+Hante trois personnes différentes en une seule partie.
+Hanteur
+Haunt three different people in a single game.
+Haunter
+Head
+Hit a living player with a stone thrown from beyond the grave.
+Idle
+Innocent, I Swear
+Innocent, je le jure
+Joue cinquante parties.
+Joue dix parties.
+Joue huit rôles différents.
+Jump
+Lamb Among Wolves
+Le village respire
+Les yeux ouverts
+Life-Saving Potion
+Light on the Wolves
+Lumière sur les loups
+Mannequin
+Mille visages
+Monsieur le maire
+Mr. Mayor
+Plateforme
+Play a game to the end.
+Play eight different roles.
+Play fifty games.
+Play ten games.
+Potion salvatrice
+Première nuit
+Première quête
+Reach level 10.
+Reach level 30.
+Regular
+Reçois au moins deux voix au Conseil, survis et gagne avec le village.
+Réussis trois quêtes en une seule partie.
+Réussis une quête de niveau dur.
+Réussis une quête extrême.
+Réussis une quête.
+Sauve quelqu'un de la meute en tant qu'Herboriste.
+Save someone from the pack as the Herbalist.
+Seasoned Villager
+Seul contre tous
+Shot From Beyond
+Sois élu maire.
+Soul of the Village
+Spell_Simple_Shoot
+Sprint
+Survis jusqu'à la cinquième nuit.
+Survis jusqu'à la troisième nuit.
+Survive until the fifth night.
+Survive until the third night.
+Ten Victories
+The Hard Way
+The Village Breathes
+Tir de l'au-delà
+Touche un vivant d'un caillou lancé depuis la mort.
+Une vocation
+Va jusqu'au bout d'une partie.
+Victoire d'outre-tombe
+Victorious Fang
+Victory From Beyond
+Village Elder
+Village Regular
+Villageois confirmé
+Vote against a wolf the Council eliminates.
+Vote against an eliminated wolf three times in a single game.
+Vote contre un loup que le Conseil élimine.
+Vote trois fois contre un loup éliminé, en une seule partie.
+Walk
+Win a game.
+Win a role by completing a quest.
+Win as a wolf without ever being voted against at the Council.
+Win as a wolf.
+Win as the Lone Wolf.
+Win ten games.
+Win while dead.
+Win with the forbidden lovers.
+Win with the village.
+Wolf Hunter
+Workhorse
+Zzz
+À la dure
+Âme du village
+Etat

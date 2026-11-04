@@ -1,0 +1,18 @@
+Plaster
+Normal
+Roughness
+Mesh
+Poids 
+Ton plateau 
+Équilibre
+Verser : 
+Étape
+Code : 
+ouvre ta serrure
+Fuir 
+t'a trouvé
+Tension
+Coque
+Rocher à 
+Ta suite est juste
+Moi je vois :\n%s

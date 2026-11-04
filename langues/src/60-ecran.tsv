@@ -1,0 +1,173 @@
+# --- ecran_jeu.gd : le salon, la fin, le vote de quete
+Tu es	You are
+Fermer (Échap)	Close (Esc)
+Le village se rassemble	The village gathers
+Quitter le lobby	Leave the lobby
+Lobby	Lobby
+À donner à tes amis : Jouer → Rejoindre avec un code.	Give this to your friends: Play → Join with a code.
+  Inviter des amis Steam  	  Invite Steam friends
+Tes amis Steam peuvent aussi cliquer « Rejoindre la partie » sur ton nom.	Your Steam friends can also click “Join Game” on your name.
+Connexion par Steam : rien à régler sur les box.	Connected through Steam: nothing to set up on your router.
+Connexion directe (Steam n'est pas ouvert sur ce PC).	Direct connection (Steam isn't open on this PC).
+Privé : seuls ceux qui ont le code entrent (jusqu'à %d joueurs).	Private: only those with the code can join (up to %d players).
+Public : il apparaît dans la liste des lobbies (jusqu'à %d joueurs).	Public: it shows up in the lobby list (up to %d players).
+hôte	host
+en ligne	online
+Confirmer ?	Confirm?
+Joueurs	Players
+Places au village  	Village slots
+Une maison par joueur : le village grandit avec la partie.	One house per player: the village grows with the game.
+Bots : des villageois de passage prennent les places vides	Bots: passing villagers take the empty slots
+Les places vides sont prises par des villageois de passage (bots).	Empty slots are filled by passing villagers (bots).
+Encore %d joueurs pour pouvoir commencer.	%d more players needed to start.
+Encore %d joueur pour pouvoir commencer.	%d more player needed to start.
+Loups	Wolves
+Nombre de loups  	Number of wolves
+Tirés la première nuit, parmi ceux qui n'ont rien gagné aux quêtes.	Drawn on the first night, among those who won nothing in the quests.
+✔  Loup  (toujours là)	✔  Wolf  (always there)
+Traître dès %d joueurs, Loup solitaire dès %d (il remplace un loup).	Traitor from %d players, Lone Wolf from %d (it replaces a wolf).
+Rôles du village	Village roles
+Chacun se gagne aux quêtes, une seule fois. Décoche ceux que tu ne veux pas.	Each one is won through quests, only once. Untick the ones you don't want.
+Sans rôle à gagner, une quête réussie donne un simple titre (Meunier, Berger…).	With no role left to win, a successful quest grants a mere title (Miller, Shepherd…).
+Rythme	Pacing
+En partie, l'hôte peut passer l'étape en cours avec la touche {passer}.	In game, the host can skip the current step with {passer}.
+Tchat	Chat
+   Commencer la partie   	   Start the game
+L'hôte prépare la partie…	The host is preparing the game…
+Victoire !	Victory!
+Défaite	Defeat
+bandeau %s	%s headband
+bandeau %s · %s	%s headband · %s
+gagne	winner
+vivant	alive
+Ce qui s'est vraiment passé	What really happened
+   Rejouer   	   Play again
+L'hôte peut relancer une partie.	The host can start a new game.
+  Le bilan  	  The summary
+  La nuit vue des loups  	  The night through the wolves' eyes
+ Nuit %d 	 Night %d
+Nuit %d	Night %d
+Les yeux de la partie	The Eyes of the Game
+La quête du jour	Today's quest
+Touche 1 à 4 · détail au tableau	Keys 1 to 4 · details on the board
+Croix ↑ 1 · → 2 · ↓ 3 · ← 4 · détail au tableau	D-pad ↑ 1 · → 2 · ↓ 3 · ← 4 · details on the board
+Rester au village	Stay in the village
+Croix ↑ 1 · → 2	D-pad ↑ 1 · → 2
+Touche 1 ou 2 · détail au tableau	Key 1 or 2 · details on the board
+Participer	Take part
+Ne pas participer	Don't take part
+Pas sur les graviers et les planches : flèches, vite !	Don't step on the gravel and planks: arrow keys, quick!
+Flaques et feuilles : ESPACE quand le cercle se referme	Puddles and leaves: SPACE when the circle closes in
+# --- la nuit guidee (tutoriel_etapes.gd, tutoriel.gd)
+Marcher	Walking
+La quête	The Quest
+Le carnet	The Notebook
+La fin	The End
+Nuit guidée  ·  %d sur %d  ·  %s	Guided night  ·  %d of %d  ·  %s
+{passer} : passer cette étape   ·   Échap : quitter	{passer}: skip this step   ·   Esc: quit
+Bienvenue à la Ronde. Avance avec {avancer} {gauche} {reculer} {droite} : le village est à toi.	Welcome to the Round. Move with {avancer} {gauche} {reculer} {droite}: the village is yours.
+Regarde autour de toi avec la souris. Ici personne n'a de nom : seulement un bandeau de couleur.	Look around with the mouse. Here nobody has a name: only a colored headband.
+Maintiens {sprint} en avançant pour courir. Le petit trait en bas est ton souffle : il se vide, et quelqu'un d'essoufflé s'entend de loin.	Hold {sprint} while moving to run. The thin bar at the bottom is your breath: it drains, and someone out of breath can be heard from afar.
+Maintiens {accroupir} pour t'accroupir. On avance lentement, mais presque sans bruit.	Hold {accroupir} to crouch. You move slowly, but almost without a sound.
+Rejoins ta souche, là où brille la lueur, et assieds-toi avec {agir}. C'est ta place au Conseil.	Go to your stump, where the glow shines, and sit down with {agir}. That's your seat at the Council.
+Ici, tout se joue à l'oral. Ta voix porte plus ou moins loin : {portee} change entre chuchoter, parler et crier. Essaie.	Here, everything is played out loud. Your voice carries near or far: {portee} switches between whispering, talking and shouting. Try it.
+Maintenant, dis quelque chose à voix haute : bonjour, une accusation, ce que tu veux. (Pas de micro ? {passer} pour continuer.)	Now say something out loud: hello, an accusation, whatever you like. (No mic? {passer} to continue.)
+Lève-toi et va au tableau des quêtes, là où brille la lueur. {agir} pour le lire.	Get up and go to the quest board, where the glow shines. {agir} to read it.
+Chaque matin, le village vote pour une quête avec les touches 1 à 4 (la 4 : rester au village). Pour apprendre, choisis la 1 : le Moulin, la plus simple.	Every morning, the village votes for a quest with keys 1 to 4 (4: stay in the village). To learn, pick 1: the Mill, the easiest.
+Le village part en quête. Un sentier s'ouvre dans la lisière et on t'y conduit : regarde autour de toi, la forêt a ses habitants.	The village sets out on its quest. A path opens in the treeline and you're led down it: look around, the forest has its dwellers.
+Voici la clairière. Lis la consigne à l'écran, fais ta part et parle aux autres : une quête se réussit ensemble, et les loups y sabotent en douce.	Here is the clearing. Read the instructions on screen, do your part and talk to the others: a quest is won together, and the wolves sabotage it on the sly.
+Quête terminée. Le sentier te ramène au village.	Quest complete. The path leads you back to the village.
+Chez toi, sur la table, un carnet t'attend : approche-toi de la lueur et prends-le avec {agir}.	At home, on the table, a notebook is waiting for you: step into the glow and pick it up with {agir}.
+Ouvre-le avec {lire}. C'est ta mémoire : sans noms, on note qui a dit quoi.	Open it with {lire}. It's your memory: with no names, you note who said what.
+Écris-y une ligne : un soupçon, un bandeau. Les autres voient ta plume gratter. Puis referme-le avec Échap.	Write a line in it: a suspicion, a headband. The others can see your quill scratching. Then close it with Esc.
+Tout le monde est rentré. Appuie sur {pret} : quand tous sont prêts, le village se réunit.	Everyone is home. Press {pret}: once all are ready, the village gathers.
+Premier jour : le village se choisit un maire. Sa voix compte double et c'est lui qui tranche les égalités. Écoute, parle, convaincs.	First day: the village chooses a mayor. Their voice counts double and they break ties. Listen, speak, persuade.
+Vise quelqu'un du regard et clique pour voter pour lui. Tu peux changer d'avis jusqu'au bout.	Aim at someone with your gaze and click to vote for them. You can change your mind until the very end.
+Voilà votre maire. Retiens-le : il peut sauver ou condamner d'un mot.	There's your mayor. Remember them: with a single word, they can save or condemn.
+Le Conseil. Tout le monde s'assoit autour du feu et on débat à l'oral : qui est un loup ? Accuse, défends-toi, mens si tu veux.	The Council. Everyone sits around the fire and debates out loud: who is a wolf? Accuse, defend yourself, lie if you like.
+Le vote. Fixe quelqu'un du regard : au bout d'un instant, clique pour l'accuser. Ton vote reste secret.	The vote. Stare at someone: after a moment, click to accuse them. Your vote stays secret.
+Les voix sont comptées et s'affichent au-dessus des têtes. Le plus accusé est attaché à la pierre pour la nuit.	The votes are counted and appear above the heads. The most accused is bound to the stone for the night.
+Le Conseil a tranché. Les villageois emmènent le condamné à la pierre : cette nuit, les loups viendront.	The Council has ruled. The villagers lead the condemned to the stone: tonight, the wolves will come.
+La nuit tombe. Chacun rentre chez soi, toi aussi : rejoins ta maison.	Night falls. Everyone goes home, and so do you: head back to your house.
+Le meneur dit : fermez les yeux. Ferme-les pour de vrai devant ta webcam, ou maintiens {sauter} si tu joues sans caméra. Certains rôles épient entre leurs cils.	The narrator says: close your eyes. Close them for real in front of your webcam, or hold {sauter} if you play without a camera. Some roles peek through their lashes.
+Le village s'endort. Écoute la voix du meneur : dans le noir, c'est la seule chose qu'on entend.	The village falls asleep. Listen to the narrator's voice: in the dark, it's the only thing you hear.
+Les loups se réveillent. Cette nuit, c'est toi, le loup. Les numéros des maisons sont rouges : ce sont tes proies.	The wolves wake up. Tonight, you are the wolf. The house numbers are red: those are your prey.
+Va à ta porte de derrière, là où brille la lueur, et appuie sur {agir} : sortir sans bruit se mérite.	Go to your back door, where the glow shines, and press {agir}: slipping out quietly has to be earned.
+Frappe ({agir}, ou clic) quand le curseur passe dans la zone claire. Trois coups réussis : aucun bruit. Raté, et tout le village entend ta porte.	Strike ({agir}, or click) when the cursor crosses the bright zone. Three hits: no noise. Miss, and the whole village hears your door.
+Dehors, avance doucement. Va devant la porte d'une maison, là où brille la lueur, et clique pour la choisir. Les loups s'accordent ainsi.	Outside, move slowly. Stand in front of a house's door, where the glow shines, and click to choose it. That's how the wolves agree.
+La porte s'ouvre. Regarde ce que fait la meute.	The door opens. Watch what the pack does.
+Tu sais tout. Le reste se joue à l'oral : mens, accuse, trahis.	You know it all. The rest is played out loud: lie, accuse, betray.
+# --- les cartes de la synchronisation (tutos_synchro.gd)
+Se déplacer	Moving Around
+{avancer} {gauche} {reculer} {droite} pour marcher, {sprint} pour courir, {sauter} pour sauter. Courir use ton souffle.	{avancer} {gauche} {reculer} {droite} to walk, {sprint} to run, {sauter} to jump. Running drains your breath.
+Agir	Acting
+{agir} ouvre une porte, lit le tableau des quêtes ou te fait asseoir. {pouvoir} lance le pouvoir de ton rôle.	{agir} opens a door, reads the quest board or sits you down. {pouvoir} triggers your role's power.
+Voix de proximité	Proximity Voice
+Tu n'entends que ceux qui sont près de toi. {portee} change ta portée : chuchoter, parler ou crier.	You only hear those close to you. {portee} changes your range: whisper, talk or shout.
+Tes indices s'y gardent. {lire} pour le lire ou y écrire, {poser} pour lâcher ce que tu tiens.	Your clues are kept in it. {lire} to read it or write in it, {poser} to drop what you're holding.
+{emotes} ouvre les animations. Face à quelqu'un, {interagir} permet de pousser, tendre la main, faire chut…	{emotes} opens the animations. Facing someone, {interagir} lets you shove, offer a hand, shush them…
+Les quêtes du jour	Today's Quests
+Le matin, le village vote la quête. Chaque rôle se gagne aux quêtes, une seule fois.	Each morning, the village votes on the quest. Every role is won through quests, only once.
+À la nuit tombée, les loups chassent. Le jour, le Conseil vote pour condamner un suspect.	When night falls, the wolves hunt. By day, the Council votes to condemn a suspect.
+Être prêt	Getting Ready
+Ta quête finie, {pret} dit que tu veux passer au vote. La journée avance quand tout le monde l'est.	Once your quest is done, {pret} says you want to move on to the vote. The day moves on when everyone is ready.
+Les voix et le miroir	Voices and the Mirror
+{volumes} règle le volume de chaque joueur. {miroir} montre ou cache le miroir.	{volumes} sets each player's volume. {miroir} shows or hides the mirror.
+Mort, pas fini	Dead, Not Done
+Un fantôme hante et lance des cailloux, au prix de son énergie. Les morts gênent tout le monde.	A ghost haunts and throws stones, at the cost of its energy. The dead are a nuisance to everyone.
+# --- le carnet (panneau_carnet.gd, vue_objets.gd)
+Page vierge. Écris ce que tu veux laisser…	Blank page. Write whatever you want to leave behind…
+Déchirer cette page	Tear out this page
+Bandeau %s · maison %s	Headband: %s · house %s
+maison %s	house %s
+Carnet de %s	%s's notebook
+Carnet de la maison %s	Notebook of house %s
+Une page arrachée au carnet de %s	A page torn from %s's notebook
+Une page déchirée	A torn page
+— page %d / %d —	— page %d / %d —
+plus de pages	no more pages
+un caillou	a stone
+le carnet de %s (bandeau %s)	%s's notebook (%s headband)
+le carnet de %s	%s's notebook
+le carnet de la maison %s	the notebook of house %s
+une page du carnet de %s	a page from %s's notebook
+une page déchirée	a torn page
+# --- la nuit vue des loups (vue_nuit_loups.gd)
+TEMPLE	TEMPLE
+LA MEUTE	THE PACK
+CETTE NUIT	THIS NIGHT
+La meute n'a attaqué aucune porte.	The pack attacked no door.
+Porte %s	Door %s
+%s est dévoré(e).	%s is devoured.
+%s résiste.	%s holds out.
+Clique sur la carte pour rejouer la nuit.	Click the map to replay the night.
+# --- la cinematique de minuit (cinematique.gd)
+Minuit. La meute s'est réunie autour de la pierre…	Midnight. The pack has gathered around the stone…
+…mais elle n'a choisi personne. La pierre reste froide.	…but it chose no one. The stone stays cold.
+Minuit. Quelque part, dans une chambre…	Midnight. Somewhere, in a bedroom…
+On ne saura pas laquelle avant l'aube.	We won't know which one until dawn.
+Au matin, le village saura qui manque.	By morning, the village will know who is missing.
+# --- le monde (monde/ronde.gd)
+Quêtes du jour	Today's Quests
+Indices	Clues
+Aucun indice pour l'instant.	No clues yet.
+L'Autel	The Altar
+le cimetière	the graveyard
+Annulée	Cancelled
+Écartée	Dropped
+En route	Under way
+Réussie	Succeeded
+Échouée	Failed
+%d min %02d	%d min %02d
+%d · %s	%d · %s
+%s — %s	%s — %s
+Poser la plume (Échap)	Put the quill down (Esc)
+Molette ou ← → : tourner la page  ·  Clic droit : écrire  ·  Clic gauche : refermer	Wheel or ← →: turn the page  ·  Right click: write  ·  Left click: close
+Clic droit : écrire  ·  Clic gauche : refermer	Right click: write  ·  Left click: close
+— Les bandeaux —	— The headbands —
+Clic gauche : ouvrir  ·  Clic droit : écrire	Left click: open  ·  Right click: write
+{note} : ranger la note	{note}: put the note away
+Choisis un pseudo à droite, ou clique une autre ligne pour les inverser.	Pick a name on the right, or click another line to swap them.
+Clique une ligne pour changer son pseudo.	Click a line to change its name.
+Partie personnalisée : on lance dès 1 joueur ; sous 3, personne ne gagne d'office.	Custom game: starts with just 1 player; under 3, nobody wins automatically.
+Partie classique : 6 joueurs au moins (ou les bots).	Classic game: 6 players minimum (or bots).

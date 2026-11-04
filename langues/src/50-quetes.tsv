@@ -1,0 +1,537 @@
+# G5 : quêtes, rôles, catalogue (runes, ingrédients, lieux du cimetière). francais<TAB>anglais.
+Lune	Moon
+Soleil	Sun
+Corbeau	Raven
+Chêne	Oak
+Croix noire	Black cross
+Œil	Eye
+Clé	Key
+Serpent	Serpent
+Couronne	Crown
+Flamme	Flame
+Goutte	Drop
+Épée	Sword
+Plume	Feather
+Crâne	Skull
+Étoile	Star
+Cerf	Stag
+Tour	Tower
+Rose	Rose
+Hibou	Owl
+Ancre	Anchor
+Spirale	Spiral
+Cloche	Bell
+Ortie	Nettle
+Champignon noir	Black mushroom
+Baie de sureau	Elderberry
+Plume de corbeau	Raven feather
+Mousse humide	Damp moss
+Racine de mandragore	Mandrake root
+Toile d'araignée	Spiderweb
+Os de souris	Mouse bone
+Sel gris	Gray salt
+Fleur de lune	Moonflower
+Ail sauvage	Wild garlic
+Écorce de bouleau	Birch bark
+Bave de crapaud	Toad slime
+Aile de chauve-souris	Bat wing
+Œil de triton	Eye of newt
+Pétale de pavot	Poppy petal
+Gland de chêne	Acorn
+Cendre de foyer	Hearth ash
+Larme de cire	Wax tear
+Dent de loup	Wolf tooth
+Sang de cerf	Stag blood
+Poil de chat noir	Black cat hair
+Lierre grimpant	Climbing ivy
+Cire d'abeille	Beeswax
+Belladone	Belladonna
+Sauge	Sage
+Thym des morts	Thyme of the dead
+Corne de bouc	Goat horn
+Écaille de serpent	Snake scale
+Rosée du matin	Morning dew
+Suie de cheminée	Chimney soot
+Miel sauvage	Wild honey
+Pierre de lune pilée	Crushed moonstone
+Queue de lézard	Lizard tail
+Fiel de brochet	Pike gall
+Noix de galle	Oak gall
+Sève de pin	Pine sap
+Graine de pavot	Poppy seed
+Cheveu de pendu	Hanged man's hair
+Eau de source	Spring water
+La grande tombe	The big tomb
+L'arbre mort	The dead tree
+La croix penchée	The leaning cross
+La stèle brisée	The broken stele
+Le tertre	The mound
+Les bougies	The candles
+Le vieux puits	The old well
+La souche	The stump
+Le rocher moussu	The mossy rock
+La clôture	The fence
+Le caveau	The crypt
+La lanterne	The lantern
+Les racines	The roots
+Le banc de pierre	The stone bench
+La dalle fendue	The cracked slab
+Le vieux coffre	The old chest
+Les fougères	The ferns
+Le seau renversé	The overturned bucket
+Le tas de pierres	The pile of stones
+Le grand rocher	The big rock
+derrière la grande tombe	behind the big tomb
+au pied de l'arbre mort	to the foot of the dead tree
+contre la croix penchée	against the leaning cross
+près de la stèle brisée	near the broken stele
+sur le tertre	onto the mound
+vers les bougies	toward the candles
+au vieux puits	to the old well
+derrière la souche	behind the stump
+contre le rocher moussu	against the mossy rock
+le long de la clôture	along the fence
+devant le caveau	in front of the crypt
+sous la lanterne	under the lantern
+dans les racines	into the roots
+au banc de pierre	to the stone bench
+sur la dalle fendue	onto the cracked slab
+près du vieux coffre	near the old chest
+dans les fougères	into the ferns
+près du seau renversé	near the overturned bucket
+derrière le tas de pierres	behind the pile of stones
+derrière le grand rocher	behind the big rock
+Tu n'as pas de pouvoir. Observe, écoute, fais les quêtes et démasque les loups.	You have no power. Watch, listen, do the quests and unmask the wolves.
+Chaque nuit, fixe une maison par ta fenêtre pendant 5 secondes : tu découvres le rôle de son habitant.	Each night, stare at a house through your window for 5 seconds: you learn the role of whoever lives there.
+Une potion de vie pour sauver la victime à l'aube, une potion de mort à verser la nuit. Une fois chacune.	One potion of life to save the victim at dawn, one potion of death to pour at night. One use of each.
+Si tu meurs, tu as 10 secondes pour viser quelqu'un et l'emporter avec toi.	If you die, you have 10 seconds to aim at someone and take them with you.
+La première nuit, lie deux joueurs. Si l'un meurt, l'autre meurt de chagrin.	On the first night, bind two players together. If one dies, the other dies of grief.
+Tu survis à la première attaque des loups.	You survive the wolves' first attack.
+Si le Conseil t'élimine, tu es gracié au dernier moment, mais tu perds ton droit de vote.	If the Council eliminates you, you are pardoned at the last moment, but you lose your right to vote.
+La première nuit, choisis un modèle. S'il meurt, tu deviens loup.	On the first night, choose a role model. If they die, you become a wolf.
+Tu entends les bruits de la nuit sans brouillage : tu sais de quelle maison ils viennent.	You hear the sounds of the night clearly: you know which house they come from.
+Chaque nuit, sors avec ta lanterne et garde une porte. Un loup qui s'en approche doit réussir un combo deux fois plus long.	Each night, step out with your lantern and guard a door. A wolf that comes near it must land a combo twice as long.
+Chaque jour, au cimetière, examine un mort : tu apprends s'il était loup.	Each day, at the cemetery, examine a dead player: you learn whether they were a wolf.
+La nuit, toi seule peux écarter le rideau de ta chambre pour épier dehors : maintiens {agir} devant la fenêtre, doucement. Si un loup voit le rideau bouger, il te repère.	At night, only you can part your bedroom curtain to spy outside: hold {agir} at the window, gently. If a wolf sees the curtain move, you are spotted.
+Tu vois les fantômes des morts errer parmi vous, et les cailloux qu'ils lancent. Tu ne les entends pas : à toi de deviner ce qu'ils manigancent.	You see the ghosts of the dead wandering among you, and the pebbles they throw. You cannot hear them: it's up to you to guess what they are plotting.
+Tu joues comme un villageois, mais tu gagnes avec les loups. Tu ne sais pas qui ils sont.	You play like a villager, but you win with the wolves. You don't know who they are.
+Quand on t'appelle la nuit, rejoins la pierre du sacrifice sans bruit et vote pour une maison avec la meute. Tu ne sais pas qui sont les autres loups.	When you are called at night, slip to the sacrificial stone in silence and vote for a house with the pack. You don't know who the other wolves are.
+Tu chasses la nuit avec la meute. Une seule fois de toute la partie, le jour, approche-toi de quelqu'un et mords-le en cachette : il deviendra loup la nuit suivante. Mais tu ne sais pas qui sont les loups : mordre un loup, c'est mourir de surdose.	You hunt at night with the pack. Once in the whole game, by day, get close to someone and bite them in secret: they will become a wolf the following night. But you don't know who the wolves are: biting a wolf means dying of an overdose.
+Deux fois par partie, fais un faux bruit sur le chemin de ronde pour faire accuser un innocent.	Twice per game, make a false noise on the rampart walk to get an innocent accused.
+Tu chasses avec la meute, mais tu gagnes seul : sois le dernier vivant. Une nuit sur deux, tu peux tuer seul.	You hunt with the pack, but you win alone: be the last one alive. Every other night, you can kill alone.
+Chacun voit un bout de la suite : reconstituez-la en parlant.	Everyone sees a piece of the sequence: piece it together by talking.
+Chacun tient une planche pendant que les autres passent.	Everyone holds a plank while the others cross.
+Chacun a son code, dont les chiffres sont dispersés entre vous : parlez, méfiez-vous.	Everyone has a code, its digits scattered among you: talk, and be wary.
+Fermez les yeux. Le guide, lui, la regarde et dit où elle va.	Close your eyes. The guide watches her and says where she is heading.
+Un seul voit la carte : il guide les autres à la voix.	Only one person sees the map: they guide the others by voice.
+Chacun sonne sa cloche au bon moment de la mélodie.	Everyone rings their bell at the right moment in the melody.
+Un lit le grimoire, chacun apporte son ingrédient dans l'ordre.	One reads the grimoire, everyone brings their ingredient in order.
+Hissez le seau, chacun son tour à la corde.	Haul up the bucket, each taking a turn on the rope.
+Chacun tourne une manivelle : gardez le même rythme.	Everyone turns a crank: keep the same rhythm.
+Répartissez les poids pour que tous les plateaux s'équilibrent.	Spread the weights so every pan balances.
+Chacun rame d'un côté : évitez les rochers.	Everyone rows on one side: dodge the rocks.
+Une chaîne de seaux, chacun à son poste.	A bucket chain, everyone at their post.
+%d ni %d	%d or %d
+Un titre a été gagné	A title was earned
+Un rôle a été gagné	A role was earned
+un titre à gagner	a title to earn
+un rôle à gagner	a role to earn
+un indice à gagner	a clue to earn
+Rôle	Role
+Quête	Quest
+Si personne ne s'avance, le hasard décide	If nobody steps forward, chance decides
+Tout ce qui existe	Everything that exists
+{agir} ou poing fermé : %s	{agir} or closed fist: %s
+Attrape (clic tenu ou poing fermé) : %s — puis lance	Grab (held click or closed fist): %s — then throw
+%s  ·  %d s  ·  il faut %d réussite sur %d	%s  ·  %d s  ·  %d success needed out of %d
+%s  ·  %d s  ·  il faut %d réussites sur %d	%s  ·  %d s  ·  %d successes needed out of %d
+→ tu tiens (Espace)	→ you're holding (Space)
+→ Espace : tenir	→ Space: hold
+→ yeux fermés	→ eyes closed
+→ YEUX OUVERTS	→ EYES OPEN
+→ maintiens Espace : yeux fermés	→ hold Space: eyes closed
+fin	end
+Vies de l'équipe	Team lives
+Vies de l'équipe : %s  (à 0, la quête échoue)	Team lives: %s  (at 0, the quest fails)
+Un froid glacé saisit %s : 5 secondes envolées.	An icy chill grips %s: 5 seconds gone.
+Poids voilés	Veiled Weights
+Équilibre tenu	Balance held
+Tes poids :	Your weights:
+Ton plateau %s indique : %d	Your pan %s reads: %d
+Mon plateau %s indique %d.	My pan %s reads %d.
+Je passe un poids du plateau %s au plateau %s.	I'm moving a weight from pan %s to pan %s.
+Poids de %d, sur le plateau %s	Weight of %d, on pan %s
+Poids n°%d, sur le plateau %s	Weight no. %d, on pan %s
+Poids %d vers %s	Weight %d to pan %s
+Poids n°%d vers %s	Weight no. %d to pan %s
+Aucun poids pour toi : lis ton plateau aux autres.	No weights for you: read your pan out to the others.
+Ajouter un caillou sur %s	Add a pebble to pan %s
+caillou → %s	pebble → %s
+Règle du jour : POIDS VOILÉS. Tu ne connais pas la valeur de tes poids : déplace-les et écoute les lectures. Tous les plateaux doivent s'équilibrer (à %d près), et tenir %d secondes.	Rule of the day: VEILED WEIGHTS. You don't know the value of your weights: move them around and listen to the readings. Every pan must balance (within %d), and hold for %d seconds.
+Chacun ne voit qu'un plateau. Annoncez vos lectures et déplacez vos poids : tous les plateaux doivent s'équilibrer (à %d près), et tenir %d secondes.	Everyone sees only one pan. Call out your readings and move your weights: every pan must balance (within %d), and hold for %d seconds.
+Ingrédient double	Double Ingredient
+Deux grimoires	Two Grimoires
+La réserve du jour	Today's Stock
+La réserve	The Stock
+Le chaudron tourne au noir !	The cauldron turns black!
+Règle du jour : DEUX GRIMOIRES. Un lecteur a les étapes impaires, l'autre les paires : relayez-vous. Chacun verse SES ingrédients, au bon moment : une erreur et tout recommence.	Rule of the day: TWO GRIMOIRES. One reader has the odd steps, the other the even ones: take turns. Everyone pours THEIR ingredients, at the right moment: one mistake and it all starts over.
+Règle du jour : INGRÉDIENT DOUBLE. Un ingrédient revient deux fois dans la recette : le lecteur sait quand, celui qui tient le pot sait lequel. Chacun verse SES ingrédients, au bon moment.	Rule of the day: DOUBLE INGREDIENT. One ingredient appears twice in the recipe: the reader knows when, whoever holds the jar knows which. Everyone pours THEIR ingredients, at the right moment.
+Seul le lecteur connaît l'ordre de la recette. Chacun verse SES ingrédients, au bon moment : une erreur et tout recommence.	Only the reader knows the order of the recipe. Everyone pours THEIR ingredients, at the right moment: one mistake and it all starts over.
+(versé) %d.  %s	(poured) %d.  %s
+%d.  %s	%d.  %s
+Tu lis le grimoire. Dicte l'ordre aux autres :	You read the grimoire. Call out the order to the others:
+Tu lis les étapes %s ; %s lit les autres :	You read the %s steps; %s reads the others:
+impaires	odd
+paires	even
+%s lit le grimoire. Écoute-le, puis verse ton ingrédient quand c'est son tour.	%s reads the grimoire. Listen, then pour your ingredient when its turn comes.
+%s et %s lisent le grimoire, une étape chacun. Écoute-les.	%s and %s read the grimoire, one step each. Listen to them.
+Étape %d / %d	Step %d / %d
+Verser : %s	Pour: %s
+Ton pot de %s se verse DEUX fois dans la recette. Si le lecteur ne le dit qu'une fois… méfie-toi.	Your %s is poured TWICE in the recipe. If the reader says it only once… beware.
+Tu n'as aucun ingrédient : guide les autres.	You have no ingredients: guide the others.
+Glisser une pincée…	Slip in a pinch…
+une pincée…	a pinch…
+Tentatives restantes : %d	Attempts left: %d
+Maintenant : %s.	Now: %s.
+Fausse note !	Wrong note!
+La corde de %s sonne toute seule : fausse note.	The rope of %s rings on its own: wrong note.
+Ta cloche :	Your bell:
+Saisis ta corde et tire-la vers le bas quand le battement passe sur un ●	Grab your rope and pull it down when the beat lands on a ●
+Tes notes justes : %d / %d	Your right notes: %d / %d
+Fausses notes : %d (au plus %d)	Wrong notes: %d (at most %d)
+Battement %d / %d	Beat %d / %d
+Sonne ta cloche seulement quand ton ● passe sur le battement. Une fausse note s'entend de tous.	Ring your bell only when your ● lands on the beat. A wrong note is heard by everyone.
+1re	1st
+2e	2nd
+3e	3rd
+4e	4th
+5e	5th
+dernière	last
+Ton code a %d chiffres.	Your code has %d digits.
+Un de tes chiffres : le %d, en %s place.	One of your digits: the %d, in %s place.
+Ton chiffre : le %d.	Your digit: the %d.
+Ce que tu sais du code des autres (dis-le-leur) :	What you know about the others' codes (tell them):
+Code de %s : un %d, en %s place	%s's code: a %d, in %s place
+Code de %s : un %d	%s's code: a %d
+Code de %s : %d fois le %d	%s's code: %d times the %d
+Ton code ouvre ta serrure. Aide les autres !	Your code opens your lock. Help the others!
+Code : %s	Code: %s
+Serrure bloquée : encore %d s.	Lock jammed: %d s to go.
+Effacer	Clear
+Vies de l'équipe : illimitées. Un mauvais code ne fait que bloquer ta serrure quelques secondes.	Team lives: unlimited. A wrong code only jams your lock for a few seconds.
+Vies de l'équipe : %d. Chaque mauvais code en coûte une à tout le monde ; à 0, la quête échoue.	Team lives: %d. Every wrong code costs everyone one; at 0, the quest fails.
+Serrures ouvertes : %d / %d (il en faut %d)	Locks open: %d / %d (%d needed)
+Chacun a son code de %d chiffres. Tu en connais un ; tes coéquipiers détiennent les autres. Parlez-vous (on peut mentir !), puis compose ton code.	Everyone has their own %d-digit code. You know one digit; your teammates hold the others. Talk to each other (lying is allowed!), then enter your code.
+Mon chiffre : %d, en %s place.	My digit: %d, in %s place.
+%s : %d, en %s place.	%s: %d, in %s place.
+%s : %d.	%s: %d.
+Deux dames	Two Ladies
+Les lieux de cette manche	This round's places
+%s ET %s	%s AND %s
+Manche finie. Joueurs attrapés : %d	Round over. Players caught: %d
+Les deux dames vont :	The two ladies are heading:
+La Dame blanche va :	The White Lady is heading:
+Les lieux possibles : %s	Possible places: %s
+Tu n'as pas bougé : la Dame t'a trouvé.	You didn't move: the Lady found you.
+La Dame t'a attrapé.	The Lady caught you.
+Joueurs attrapés cette manche : %d	Players caught this round: %d
+Manche %d / %d · tu as été attrapé %d fois (au plus %d permises)	Round %d / %d · you've been caught %d times (%d allowed at most)
+Elles vont %s et %s !	They go %s and %s!
+Elle va %s !	She goes %s!
+Un seau s'est renversé	A bucket spilled
+Le seau de %s se renverse tout seul.	The bucket of %s tips over on its own.
+Les seaux arrivent du puits jusqu'à toi.	The buckets come from the well all the way to you.
+Tu reçois les seaux de %s.	You receive the buckets from %s.
+Tu les jettes sur le feu.	You throw them onto the fire.
+Tu les passes à %s.	You pass them to %s.
+UN SEAU ! Passe-le vite : %.1f s	A BUCKET! Pass it quickly: %.1f s
+Passer le seau	Pass the bucket
+Pas de seau dans tes mains.	No bucket in your hands.
+Renverser	Spill
+renverser	spill
+Passer	Pass
+Le feu	The fire
+Seaux passés à temps : %d	Buckets passed in time: %d
+Formez la chaîne : passe chaque seau à ton voisin dès que tu le reçois. Un seau gardé trop longtemps se renverse.	Form the chain: pass each bucket to your neighbor as soon as you receive it. A bucket held too long spills.
+en haut	up
+en bas	down
+à gauche	left
+à droite	right
+Va %s !	Go %s!
+La brume recouvre les pierres de %s.	The mist covers the stones of %s.
+La brume efface les pierres que %s avait trouvées.	The mist wipes away the stones %s had found.
+%s a traversé le marais !	%s crossed the marsh!
+Plus aucune lanterne : %s est englouti par le marais.	No lanterns left: %s is swallowed by the marsh.
+%s tombe à l'eau ! Il revient sur la dernière pierre sûre.	%s falls in the water! They are back on the last safe stone.
+Lanternes de vie : illimitées. Seul le temps compte.	Life lanterns: unlimited. Only time matters.
+Lanternes de vie : %d / %d. Chaque chute à l'eau en éteint une.	Life lanterns: %d / %d. Each fall into the water puts one out.
+Lanternes de vie du marcheur	The walker's life lanterns
+Lanternes de vie du marcheur : illimitées	The walker's life lanterns: unlimited
+Traverse le marais de pierre en pierre : écoute tes guides	Cross the marsh stone by stone: listen to your guides
+Tu es le MARCHEUR : c'est toi qui avances	You are the WALKER: you're the one moving
+Tu ne vois pas quelles pierres tiennent. Marche (ou saute) de l'une à l'autre : l'eau t'engloutit, une pierre piège cède.	You can't see which stones hold. Walk (or jump) from one to the next: the water swallows you, a trap stone gives way.
+Guide le marcheur à la voix : les pierres éclairées sont sûres	Guide the walker by voice: the lit stones are safe
+GUIDE de %s — %s	GUIDE of %s — %s
+Temps de la traversée	Crossing time
+La manivelle échappe à %s : un coup à contretemps.	The crank slips from %s: an off-beat stroke.
+La meule cogne !	The millstone knocks!
+Saisis la manivelle et tourne : passe en haut quand le repère bat	Grab the crank and turn: pass the top when the marker beats
+Le grain moulu	Ground grain
+Tes coups justes : %d / %d	Your right strokes: %d / %d
+Tournez ensemble, au battement. Un coup à contretemps fait cogner la meule.	Turn together, on the beat. An off-beat stroke makes the millstone knock.
+La corde glisse des mains de %s : sa planche va tomber.	The rope slips from the hands of %s: their plank is about to fall.
+Une planche a lâché !	A plank gave way!
+Le pont est libre. Traversées réussies : %d / %d	The bridge is clear. Successful crossings: %d / %d
+Le pont est fini.	The bridge is done.
+C'est ton tour : traverse !	Your turn: cross!
+La traversée	The crossing
+Les autres calent les planches. Si l'une lâche, tu tombes.	The others wedge the planks. If one gives way, you fall.
+Saisis ta corde (regarde-la, poing fermé ou clic tenu) et garde-la : tu cales la planche de %s	Grab your rope (look at it, closed fist or held click) and keep hold: you are wedging the plank of %s
+%s traverse	%s is crossing
+Tu as traversé. Maintenant, tiens bon pour les autres !	You crossed. Now hold on for the others!
+Tu es tombé trop souvent. Tiens quand même !	You fell too many times. Hold on anyway!
+Ton tour viendra. Ne lâche pas !	Your turn will come. Don't let go!
+Traversées réussies : %d / %d (il en faut %d)	Successful crossings: %d / %d (%d needed)
+Un seul traverse ; tous les autres saisissent leur corde et la tiennent. Lâcher, c'est le faire tomber.	Only one crosses; everyone else grabs their rope and holds it. Letting go makes them fall.
+La corde file !	The rope slips away!
+La corde file entre les doigts de %s.	The rope slips through the fingers of %s.
+Tension de la corde	Rope tension
+Le seau remonte	The bucket rises
+C'est ton tour : garde la tension dans la zone. Tiens pour monter, lâche pour descendre.	Your turn: keep the tension in the zone. Hold to go up, let go to go down.
+Tiens la corde : regarde la boucle, poing fermé ou clic tenu	Hold the rope: look at the loop, closed fist or held click
+%s va saisir la corde : ne lâche pas avant.	%s is about to grab the rope: don't let go before.
+Tu es le suivant : saisis la corde AVANT que %s la lâche.	You're next: grab the rope BEFORE %s lets go.
+Saisis la corde : regarde la boucle, poing fermé ou clic tenu	Grab the rope: look at the loop, closed fist or held click
+La corde est à %s, puis à %s.	The rope is with %s, then %s.
+Ta part : %d / %d s dans la zone	Your share: %d / %d s in the zone
+Hissez le seau à tour de rôle. La tension doit rester dans la zone ; préviens ton successeur pour que la corde ne file pas.	Haul the bucket in turns. The tension must stay in the zone; warn your successor so the rope doesn't slip away.
+Brouillard	Fog
+gauche	left
+droite	right
+GAUCHE	LEFT
+DROITE	RIGHT
+Le radeau tangue !	The raft pitches!
+Le radeau racle un rocher !	The raft scrapes a rock!
+Le radeau se brise !	The raft breaks apart!
+Tu rames du bord %s.	You row on the %s side.
+Coque du radeau	Raft hull
+Souffle	Breath
+Rocher à %s dans %.1f s : que le bord %s rame !	Rock on the %s in %.1f s: the %s side must row!
+Rien à l'horizon.	Nothing on the horizon.
+Tu es à l'AVANT : tu vois les rochers. Crie-les aux autres !	You're at the FRONT: you can see the rocks. Shout them out to the others!
+Tu es à l'AVANT : tu vois les rochers (le brouillard les cache jusqu'au dernier moment). Crie-les aux autres !	You're at the FRONT: you can see the rocks (the fog hides them until the last moment). Shout them out to the others!
+%s est à l'avant : il voit les rochers. Écoute-le !	%s is at the front: they can see the rocks. Listen!
+Tes coups bien placés : %d / %d	Your well-placed strokes: %d / %d
+Ramer (touche 1)	Row (key 1)
+Règle du jour : BROUILLARD. L'avant voit les rochers au dernier moment : criez vite. Un rocher à droite : le bord GAUCHE rame (et inversement).	Rule of the day: FOG. The front sees the rocks at the last moment: shout fast. A rock on the right: the LEFT side rows (and vice versa).
+Un rocher à droite : le bord GAUCHE doit ramer à temps (et inversement). Ramer à contre-bord fait tanguer le radeau.	A rock on the right: the LEFT side must row in time (and vice versa). Rowing on the wrong side makes the raft pitch.
+Rocher à %s ! Les rameurs de %s, ramez !	Rock on the %s! Rowers on the %s, row!
+Rune maudite	Cursed Rune
+Les runes de la pierre	The stone's runes
+Règle du jour : MIROIR. Dites-vous vos runes, puis chacun retape la suite À L'ENVERS (la dernière d'abord).	Rule of the day: MIRROR. Tell each other your runes, then everyone types the sequence BACKWARDS (last one first).
+Règle du jour : RUNE MAUDITE. Une rune de la suite ne se tape jamais, et seul %s sait laquelle : qu'il vous la dise — s'il ment, tout le monde se trompe. Dites-vous vos runes, puis chacun retape le reste, dans l'ordre.	Rule of the day: CURSED RUNE. One rune in the sequence is never typed, and only %s knows which: let them tell you — if they lie, everyone gets it wrong. Tell each other your runes, then everyone types the rest, in order.
+Dites-vous vos runes : il faut que chacun retape la suite entière, dans l'ordre.	Tell each other your runes: everyone must type the whole sequence, in order.
+Ce que TU vois sur la pierre :	What YOU see on the stone:
+À taper à l'envers : la %de d'abord.	Type it backwards: number %d first.
+Toi seul le sais : la rune maudite est %s (ne jamais la taper). Dis-le aux autres.	Only you know: the cursed rune is %s (never type it). Tell the others.
+Une rune est maudite : seul %s sait laquelle. Demande-lui.	One rune is cursed: only %s knows which. Ask them.
+Ta suite est juste. Aide les autres !	Your sequence is right. Help the others!
+Plus d'essai pour toi. Aide les autres de la voix.	No attempts left for you. Help the others by voice.
+Ta suite : %s	Your sequence: %s
+Essais restants : %d	Attempts left: %d
+Suites justes : %d / %d (il en faut %d)	Correct sequences: %d / %d (%d needed)
+La rune maudite, c'est %s. Ne la tapez pas !	The cursed rune is %s. Don't type it!
+Moi je vois :	I see:
+la 1re, c'est %s	number 1 is %s
+la %de, c'est %s	number %d is %s
+Le plus nerveux	The Jumpiest
+%s a cligné %d fois pendant son procès.	%s blinked %d times during their trial.
+Le regard fuyant	The Shifty Gaze
+%s a détourné le regard en votant.	%s looked away while voting.
+Le regard de pierre	The Stone Stare
+%s n'a jamais baissé les yeux.	%s never looked away.
+Les paupières en feu	The Burning Eyelids
+%s a cligné %d fois, %d par minute.	%s blinked %d times, %d per minute.
+Le plus impassible	The Most Stoic
+%s n'a cligné que %d fois en %d minutes.	%s blinked only %d times in %d minutes.
+Le dormeur	The Sleeper
+%s a gardé les yeux fermés %d secondes pendant les nuits.	%s kept their eyes closed for %d seconds during the nights.
+Le plus craintif	The Most Fearful
+%s a écarquillé les yeux devant une frayeur.	%s's eyes went wide at one scare.
+%s a écarquillé les yeux devant %d frayeurs.	%s's eyes went wide at %d scares.
+Le sang-froid	Cold Blood
+%s n'a pas sourcillé devant %d frayeurs.	%s didn't flinch at %d scares.
+DERRIÈRE LA GRANDE TOMBE	BEHIND THE BIG TOMB
+AU PIED DE L'ARBRE MORT	TO THE FOOT OF THE DEAD TREE
+CONTRE LA CROIX PENCHÉE	AGAINST THE LEANING CROSS
+PRÈS DE LA STÈLE BRISÉE	NEAR THE BROKEN STELE
+SUR LE TERTRE	ONTO THE MOUND
+VERS LES BOUGIES	TOWARD THE CANDLES
+AU VIEUX PUITS	TO THE OLD WELL
+DERRIÈRE LA SOUCHE	BEHIND THE STUMP
+CONTRE LE ROCHER MOUSSU	AGAINST THE MOSSY ROCK
+LE LONG DE LA CLÔTURE	ALONG THE FENCE
+DEVANT LE CAVEAU	IN FRONT OF THE CRYPT
+SOUS LA LANTERNE	UNDER THE LANTERN
+DANS LES RACINES	INTO THE ROOTS
+AU BANC DE PIERRE	TO THE STONE BENCH
+SUR LA DALLE FENDUE	ONTO THE CRACKED SLAB
+PRÈS DU VIEUX COFFRE	NEAR THE OLD CHEST
+DANS LES FOUGÈRES	INTO THE FERNS
+PRÈS DU SEAU RENVERSÉ	NEAR THE OVERTURNED BUCKET
+DERRIÈRE LE TAS DE PIERRES	BEHIND THE PILE OF STONES
+DERRIÈRE LE GRAND ROCHER	BEHIND THE BIG ROCK
+Dans le noir, écoute le guide : marche loin d'où vont les DEUX dames.	In the dark, listen to the guide: walk away from where the TWO ladies are going.
+Dans le noir, écoute le guide : marche loin d'où va la Dame.	In the dark, listen to the guide: walk away from where the Lady is going.
+Tu es le GUIDE : les autres sont dans le noir. Dis-leur où vont les deux dames.	You are the GUIDE: the others are in the dark. Tell them where the two ladies are going.
+Tu es le GUIDE : les autres sont dans le noir. Dis-leur où va la Dame.	You are the GUIDE: the others are in the dark. Tell them where the Lady is going.
+Les lieux de la manche s'éclairent. La Dame va se mettre en route.	This round's places light up. The Lady is about to set off.
+Décris-la à voix haute (ou mens, si tu l'oses).	Describe her out loud (or lie, if you dare).
+La nuit tombe : retiens où sont les lieux éclairés.	Night falls: remember where the lit places are.
+Bientôt tu marcheras dans le noir, guidé par la voix de %s et les bruits de la Dame.	Soon you will walk in the dark, guided by the voice of %s and the Lady's noises.
+Les lieux éclairés : %s	Lit places: %s
+Écoute %s. Où est la Dame ? Éloigne-toi !	Listen to %s. Where is the Lady? Get away!
+Si tu restes sur place, elle te trouve.	If you stay put, she finds you.
+Avant que la Dame arrive	Before the Lady arrives
+Tu as échappé à la Dame. La lumière revient.	You escaped the Lady. The light returns.
+La Dame sent %s : elle l'attrapera de plus loin cette manche.	The Lady senses %s: she will catch them from farther away this round.
+Le Gué	The Ford
+La Tourbière	The Peat Bog
+Le Bois noyé	The Drowned Wood
+La Lanterne	The Lantern
+la barque échouée	the beached boat
+le grand saule	the great willow
+le tronc couché	the fallen log
+la cabane du pêcheur	the fisherman's hut
+la pierre dressée	the standing stone
+le héron de pierre	the stone heron
+Poteau %s atteint : devant toi, %s.	You reached the %s post: ahead of you, %s.
+Tu ne vois pas quelles pierres tiennent. Marche (ou saute) de l'une à l'autre : l'eau t'engloutit, une pierre piège cède, une pierre qui s'enfonce ne tient que quand elle est haute.	You can't see which stones hold. Walk (or jump) from one to the next: the water swallows you, a trap stone gives way, and a sinking stone only holds while it is up.
+Étape %d / %d : %s	Stage %d / %d: %s
+Repères : %s	Landmarks: %s
+Poteaux des îlots : %s	Island posts: %s
+Attends qu'elle remonte, puis va %s !	Wait for it to come back up, then go %s!
+Une planche a cédé !	A plank gave way!
+La rafale l'a emporté !	The gust swept them away!
+Le marcheur est tombé dans la gorge !	The walker fell into the gorge!
+Une traversée réussie !	A successful crossing!
+C'est ton tour : traverse à pied !	Your turn: cross on foot!
+Le pont se prépare : attends que tout le monde tienne sa corde.	The bridge is getting ready: wait until everyone holds their rope.
+Cordes tenues : %d / %d	Ropes held: %d / %d
+Le pont tangue ! Ne bouge plus !	The bridge is swaying! Don't move!
+Marche sur les planches, une à une. Écoute les autres : une planche peut être pourrie, une rafale peut te jeter dans la gorge.	Walk on the planks, one by one. Listen to the others: a plank may be rotten, a gust may throw you into the gorge.
+Saisis ta corde (regarde-la, poing fermé ou clic tenu) et garde-la : tu cales les planches de %s	Grab your rope (look at it, closed fist or held click) and keep hold: you wedge the planks for %s
+Une rafale se lève : dis-lui de s'arrêter !	A gust is rising: tell them to stop!
+La rafale secoue le pont !	The gust shakes the bridge!
+Planches pourries (en rouge) : %s	Rotten planks (in red): %s
+Un seul traverse à pied ; tous les autres saisissent leur corde et la tiennent. Lâcher, c'est le faire tomber.	Only one crosses, on foot; everyone else grabs their rope and holds it. Letting go makes them fall.
+Rafale ! Ne bouge plus !	Gust! Don't move!
+Tout va bien, avance !	All is well, go ahead!
+Saute la planche %d !	Jump over plank %d!
+# Refonte des mini-jeux à vrais gestes (01/11) : Radeau, Puits, Moulin, Cloches, Incendie
+Mouvement suivant : %s	Next movement: %s
+Mouvement %d / %d : %s	Movement %d / %d: %s
+La ronde	The round
+Les notes s'éparpillent	The notes scatter
+Le grand carillon	The great chime
+Silence : le prochain mouvement commence, cale-toi sur le battement.	Silence: the next movement is starting, lock onto the beat.
+Calage : ces battements ne comptent pas.	Warm-up: these beats do not count.
+Sonne ta cloche seulement quand ton ● passe sur le battement. Une fausse note s'entend de tous. La mélodie a plusieurs mouvements, de plus en plus vifs.	Ring your bell only when your ● falls on the beat. A wrong note is heard by everyone. The melody has several movements, faster and faster.
+%s : le feu est éteint !	%s: the fire is out!
+%s s'effondre !	%s collapses!
+Le feu gagne %s !	The fire spreads to %s!
+la grange	the barn
+la meule de foin	the haystack
+l'étable	the stable
+l'atelier	the workshop
+le fenil	the hayloft
+La grange	The barn
+La meule de foin	The haystack
+L'étable	The stable
+L'atelier	The workshop
+Le fenil	The hayloft
+Tu les jettes sur le foyer que tu vises : choisis le plus dangereux.	You throw them on the fire you are aiming at: pick the most dangerous one.
+UN SEAU ! Lance-le vite : %.1f s	A BUCKET! Throw it fast: %.1f s
+Seau plein	Full bucket
+Foyers en feu : %d · bâtiments perdus : %d / %d	Fires burning: %d · buildings lost: %d / %d
+Formez la chaîne : passe chaque seau à ton voisin dès que tu le reçois. Le dernier jette l'eau sur le foyer qu'il vise : le feu se propage, éteignez d'abord le plus dangereux.	Form the chain: pass each bucket to your neighbour as soon as you get it. The last one throws the water on the fire he aims at: the fire spreads, put out the most dangerous one first.
+Sac suivant : le rythme s'accélère !	Next sack: the rhythm speeds up!
+Sac suivant : le rythme ralentit !	Next sack: the rhythm slows down!
+Sac %d / %d	Sack %d / %d
+On verse le sac dans la trémie : reprenez le rythme du repère.	The sack is poured into the hopper: pick the rhythm up from the marker.
+Échauffement : ces battements ne comptent pas.	Warm-up: these beats do not count.
+Tournez ensemble, au battement, sac après sac : le rythme change à chaque sac. Un coup à contretemps fait cogner la meule.	Turn together, on the beat, sack after sack: the rhythm changes with every sack. A stroke off the beat makes the millstone knock.
+Le seau est en haut ! On le vide…	The bucket is up! Emptying it…
+Ta part : %d %% dans la zone (il en faut %d %%)	Your share: %d %% in the zone (you need %d %%)
+Seau %d / %d : de plus en plus profond, de plus en plus lourd.	Bucket %d / %d: deeper and deeper, heavier and heavier.
+Hissez les seaux à tour de rôle. La tension doit rester dans la zone ; préviens ton successeur pour que la corde ne file pas. Plus le seau est profond, plus il est lourd.	Haul the buckets in turn. The tension must stay in the zone; warn your successor so the rope does not run. The deeper the bucket, the heavier it is.
+La rame de %s lui échappe des mains.	The oar slips out of %s's hands.
+Le courant s'apaise.	The current calms down.
+Les gorges se resserrent !	The gorge narrows!
+Les rapides !	The rapids!
+La paroi racle la coque !	The wall scrapes the hull!
+Vous accostez !	You land!
+Rame : clic tenu et tire la souris vers toi (poing fermé qui descend, devant la webcam)	Row: hold the click and pull the mouse towards you (closed fist moving down, in front of the webcam)
+Tu es à l'AVANT : tu vois les rochers de loin (le brouillard ne les montre qu'au dernier moment). Crie-les !	You are at the FRONT: you see the rocks from afar (the fog only shows them at the last moment). Shout them out!
+Tu es à l'AVANT : tu vois les rochers de loin. Crie-les !	You are at the FRONT: you see the rocks from afar. Shout them out!
+La rivière	The river
+Tes coups de rame : %d / %d	Your oar strokes: %d / %d
+Descendez la rivière : ramez de votre bord pour avancer. Un rocher à droite : les rameurs de DROITE ramez pour l'écarter (ramer d'un bord pousse le radeau vers l'autre), au bon moment.	Go down the river: row from your side to move forward. A rock on the right: the rowers on the RIGHT row to push it away (rowing on one side pushes the raft to the other), at the right moment.
+Règle du jour : BROUILLARD. L'avant ne voit les rochers qu'au dernier moment : criez vite. Un rocher à droite : les rameurs de DROITE ramez pour l'écarter (ramer d'un bord pousse le radeau vers l'autre), au bon moment.	Rule of the day: FOG. The front only sees the rocks at the last moment: shout fast. A rock on the right: the rowers on the RIGHT row to push it away (rowing on one side pushes the raft to the other), at the right moment.
+Rocher à GAUCHE ! Ramez de ce bord !	Rock on the LEFT! Row on that side!
+Rocher au MILIEU ! Poussez d'un côté ou de l'autre !	Rock in the MIDDLE! Push to one side or the other!
+Rocher à DROITE ! Ramez de ce bord !	Rock on the RIGHT! Row on that side!
+Deux rochers ! Passez à GAUCHE !	Two rocks! Go LEFT!
+Deux rochers ! Passez au MILIEU !	Two rocks! Go through the MIDDLE!
+Deux rochers ! Passez à DROITE !	Two rocks! Go RIGHT!
+6e	6th
+7e	7th
+8e	8th
+9e	9th
+Chacun a son cadenas à %d molettes sur le grand coffre. Tu connais un de ses chiffres ; tes coéquipiers détiennent les autres. Parlez-vous (on peut mentir !), puis tourne tes molettes et tire l'anse.	Everyone has their own padlock with %d dials on the great chest. You know one of its digits; your teammates hold the others. Talk to each other (lying is allowed!), then turn your dials and pull the shackle.
+La serrure est bloquée : l'anse ne bouge plus. Attends un peu…	The lock is jammed: the shackle won't budge. Wait a moment…
+Molette de la souris, ou clic tenu et glisser : tourner la molette	Mouse wheel, or hold the click and drag: turn the dial
+Clic tenu, puis tire vers le haut : essayer le code	Hold the click, then pull up: try the code
+Vise une molette de ton cadenas (clic tenu : tirer l'anse)	Aim at a dial on your padlock (hold the click: pull the shackle)
+Un froid glacé saisit %s : son pot lui échappe.	An icy chill grips %s: their jar slips from their hands.
+Règle du jour : DEUX GRIMOIRES. Un lecteur a les étapes impaires, l'autre les paires : relayez-vous. Va chercher SES pots sur l'étagère et verse-les dans le chaudron, au bon moment : une erreur et tout recommence.	Rule of the day: TWO GRIMOIRES. One reader has the odd steps, the other the even ones: take turns. Fetch YOUR jars from the shelf and pour them into the cauldron, at the right moment: one mistake and it all starts over.
+Règle du jour : INGRÉDIENT DOUBLE. Un ingrédient revient deux fois dans la recette : le lecteur sait quand, celui qui tient le pot sait lequel. Va chercher SES pots sur l'étagère et verse-les dans le chaudron, au bon moment.	Rule of the day: DOUBLE INGREDIENT. One ingredient appears twice in the recipe: the reader knows when, whoever holds the jar knows which. Fetch YOUR jars from the shelf and pour them into the cauldron, at the right moment.
+Seul le lecteur connaît l'ordre de la recette : il la lit sur le grimoire. Va chercher SES pots sur l'étagère et verse-les dans le chaudron, au bon moment : une erreur et tout recommence.	Only the reader knows the order of the recipe: they read it in the grimoire. Fetch YOUR jars from the shelf and pour them into the cauldron, at the right moment: one mistake and it all starts over.
+Tu lis le grimoire sur le pupitre. Dicte l'ordre aux autres.	You read the grimoire on the lectern. Call out the order to the others.
+Tu lis les étapes %s du grimoire ; %s lit les autres.	You read the %s steps of the grimoire; %s reads the others.
+Tu n'as aucun pot : guide les autres.	You have no jars: guide the others.
+Tes pots : %s	Your jars: %s
+Tu as un sachet de poudre noire : au chaudron, sans pot en main, bascule la main pour glisser une pincée.	You have a pouch of black powder: at the cauldron, with no jar in hand, tilt your hand to slip in a pinch.
+Clic gauche tenu, puis bascule la souris vers le bas : verser (%s : reposer le pot)	Hold the left click, then tilt the mouse downward: pour (%s: put the jar back)
+Marche jusqu'au chaudron avec ton pot (%s ou un clic face à l'étagère : le reposer)	Walk to the cauldron with your jar (%s or a click facing the shelf: put it back)
+Clic ou %s : prendre ce pot (%s)	Click or %s: take this jar (%s)
+Ce pot n'est pas à toi : un autre joueur le tient.	This jar isn't yours: another player holds it.
+Clic à droite ou à gauche (ou la molette) : tourner la page	Click right or left (or use the wheel): turn the page
+Ce grimoire est scellé : seul le lecteur peut le lire.	This grimoire is sealed: only the reader can read it.
+Sachet noir : clic gauche tenu, puis bascule la souris vers le bas (sans pot en main) : glisser une pincée	Black pouch: hold the left click, then tilt the mouse downward (no jar in hand): slip in a pinch
+Prends tes pots sur l'étagère, au fond (clic ou %s), et verse-les dans le chaudron au bon moment	Take your jars from the shelf at the back (click or %s), and pour them into the cauldron at the right moment
+# --- prendre / porter / poser (Runes, Balance : cf. quetes/prise.gd) ---
+{agir} ou clic tenu : prendre %s	{agir} or held click: take %s
+{agir} ou lâcher le clic : poser ici	{agir} or release the click: put it down here
+{agir} ou lâcher le clic : reposer %s	{agir} or release the click: put %s back
+Cette place est prise	This spot is taken
+le galet « %s »	the pebble “%s”
+ton caillou	your pebble
+un poids	a weight
+le poids de %d	the weight of %d
+Dites-vous vos runes : il faut que chacun reconstitue la suite entière sur son autel, dans l'ordre. Prends un galet de ta réserve (clic tenu, ou E), pose-le dans une encoche ; tu peux en reprendre un. Quand l'autel est plein, il juge.	Tell each other your runes: everyone must rebuild the whole sequence on their own altar, in order. Take a pebble from your stock (held click, or E), put it in a socket; you can take one back. When the altar is full, it passes judgement.
+Règle du jour : MIROIR. Dites-vous vos runes, puis chacun pose sa suite À L'ENVERS (la dernière gravée d'abord). Prends un galet de ta réserve (clic tenu, ou E), pose-le dans une encoche ; tu peux en reprendre un. Quand l'autel est plein, il juge.	Rule of the day: MIRROR. Tell each other your runes, then everyone lays their sequence BACKWARDS (the last one carved first). Take a pebble from your stock (held click, or E), put it in a socket; you can take one back. When the altar is full, it passes judgement.
+Règle du jour : RUNE MAUDITE. Une rune de la suite ne se pose jamais, et seul %s sait laquelle : qu'il vous la dise — s'il ment, tout le monde se trompe. Dites-vous vos runes, puis chacun pose le reste, dans l'ordre. Prends un galet de ta réserve (clic tenu, ou E), pose-le dans une encoche ; tu peux en reprendre un. Quand l'autel est plein, il juge.	Rule of the day: CURSED RUNE. One rune in the sequence is never laid down, and only %s knows which: let them tell you — if they lie, everyone gets it wrong. Tell each other your runes, then everyone lays the rest, in order. Take a pebble from your stock (held click, or E), put it in a socket; you can take one back. When the altar is full, it passes judgement.
+À poser à l'envers : la %de d'abord.	Lay them backwards: number %d first.
+Toi seul le sais : la rune maudite est %s (ne jamais la poser). Dis-le aux autres.	Only you know: the cursed rune is %s (never lay it down). Tell the others.
+La rune maudite, c'est %s. Ne la posez pas !	The cursed rune is %s. Don't lay it down!
+Chacun ne lit qu'un cadran. Annoncez vos lectures et posez vos poids : tous les plateaux doivent s'équilibrer (à %d près), tous les poids posés, et tenir %d secondes. Prends un poids sur ta table (clic tenu, ou E), pose-le sur un plateau ; tu peux le reprendre.	Everyone reads only one dial. Call out your readings and put down your weights: every pan must balance (within %d), every weight must be down, and it must hold for %d seconds. Take a weight from your table (held click, or E), put it on a pan; you can take it back.
+Règle du jour : POIDS VOILÉS. Tu ne connais pas la valeur de tes poids : pose-les et écoute les lectures. Tous les plateaux doivent s'équilibrer (à %d près), tous les poids posés, et tenir %d secondes. Prends un poids sur ta table (clic tenu, ou E), pose-le sur un plateau ; tu peux le reprendre.	Rule of the day: VEILED WEIGHTS. You don't know the value of your weights: put them down and listen to the readings. Every pan must balance (within %d), every weight must be down, and it must hold for %d seconds. Take a weight from your table (held click, or E), put it on a pan; you can take it back.
+Le cadran du plateau %s est tourné vers toi : toi seul le lis.	The dial of pan %s faces you: only you can read it.
+Les cadrans des plateaux %s sont tournés vers toi : toi seul les lis.	The dials of pans %s face you: only you can read them.
+Aucun cadran pour toi : écoute les lectures des autres.	No dial for you: listen to what the others read.
+Poids encore sur ta table : %d	Weights still on your table: %d
+Je ne connais pas mes poids : je pose selon vos lectures.	I don't know my weights: I'll put them down by your readings.
+Mes poids : %s.	My weights: %s.
+La manivelle tourne toute seule !	The crank turns by itself!
+Une corde sonne toute seule !	A rope rings on its own!

@@ -1,0 +1,15 @@
+Français
+English
+Bouille
+Straight
+Brick
+façade
+Tapis
+Cadre
+Atre
+Parure
+Effets
+[frisson] %s (t=%.0f s de jeu)
+[frisson] monstre d'un fantôme
+ (bandeau %s)
+\nJoueurs requis : %s

@@ -1,0 +1,16 @@
+Bruits d'objets (portes, poignee, chaines, cailloux, gravier) : enregistrements libres de droits, tous CC0 1.0
+(domaine public, usage commercial permis, aucune attribution exigee ; elle est donnee ici par courtoisie).
+Les fichiers .ogg sont rognes, mis a niveau (limiteur doux) et convertis en Vorbis mono 44,1 kHz par
+outils/fabriquer_sons_objets.py. Licence : https://creativecommons.org/publicdomain/zero/1.0/
+
+- porte_ouvre_0, _1 ; porte_ferme_0 a 3 ; poignee_0, _1 ; caillou_0 a 4 (impactGeneric_light), chaines_* (grains) :
+  "RPG Audio" et "Impact Sounds" de Kenney Vleugels (Kenney.nl), CC0 1.0.
+  https://kenney.nl/assets/rpg-audio    https://kenney.nl/assets/impact-sounds
+- porte_ouvre_2 (door_open_01), porte_coup_0 a 3 (wood_slam_01 a 04), poignee_2 (lock_open_01), chaines_* (keys_01/05/06/07),
+  gravier_0 a 2 (stones_01 a 03) : "100 CC0 metal and wood SFX" et "100 CC0 SFX #2" de rubberduck, CC0 1.0.
+  https://opengameart.org/content/100-cc0-metal-and-wood-sfx    https://opengameart.org/content/100-cc0-sfx-2
+- porte_ouvre_3 : "Creaky Door Hinge Spooky" de Age of Fable (extrait de 2 s), CC0 1.0.
+  https://opengameart.org/content/creaky-door-hinge-spooky
+
+chaines_0 a 2 sont recomposees : aucune banque CC0 ne propose une vraie chaine seule, on a donc place au hasard de petits
+cliquetis metalliques enregistres (trousseaux de cles, boucle de ceinture, pieces, tole) pour faire un cliquetis de chaine.
